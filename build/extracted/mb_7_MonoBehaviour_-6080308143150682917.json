@@ -1,0 +1,6481 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Items_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -3089282820684766829
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": [
+        {
+          "rid": 1783862580481884396
+        }
+      ]
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 27720280817664,
+        "m_Localized": "40mm HE",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720305983488,
+        "m_Localized": "40mm impact explosive grenade. Used by grenade launchers.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720305983489,
+        "m_Localized": ".223 Hollowpoint",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720305983490,
+        "m_Localized": "Jacketed Hollow Point rifle ammo. Designed to expand upon impact for maximum damage. Used by rifles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177792,
+        "m_Localized": "12ga Buckshot",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177793,
+        "m_Localized": "Buckshot shells loaded with pellets for spread action. Used by Shotguns.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177794,
+        "m_Localized": "9mm AP Bullets",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177795,
+        "m_Localized": "Armor piercing 9mm ammo, widely used by armed forces and designed to penetrate armor.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177796,
+        "m_Localized": "9mm Cartridge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177797,
+        "m_Localized": "General purpose 9mm ammo. Used by machine pistols and sub machineguns.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177798,
+        "m_Localized": "12ga Slug",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177799,
+        "m_Localized": "Slug shells packed with single large projectiles. Used by Shotguns.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177800,
+        "m_Localized": ".223 Full Metal Jacket",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27720310177801,
+        "m_Localized": "Full metal jacket high penetration rounds. Used by rifles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27750651772928,
+        "m_Localized": "Ammo Crafting Kit (Shotgun)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27750651772929,
+        "m_Localized": "Makes bullets for shotgun weapons when combined with gunpowder.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27750651772930,
+        "m_Localized": "Ammo Crafting Kit (9mm)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27750651772931,
+        "m_Localized": "Makes bullets for 9mm weapons when combined with gunpowder.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27750651772932,
+        "m_Localized": "Ammo Crafting Kit (Rifle)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27750651772933,
+        "m_Localized": "Makes bullets for rilfe weapons when combined with gunpowder.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27767412211712,
+        "m_Localized": "Corroded Iron Ball",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27767412211713,
+        "m_Localized": "A muted pulse emerges from the center, pressing out drops of rust colored liquid.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27767412211714,
+        "m_Localized": "Mallet of Health",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27767412211715,
+        "m_Localized": "Mallet of the bear",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27767416406016,
+        "m_Localized": "Screwdriver",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27767416406017,
+        "m_Localized": "An old screwdriver for some reason",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869568,
+        "m_Localized": "Health Drink",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869569,
+        "m_Localized": "A delicious tasty health drink.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869570,
+        "m_Localized": "Tonic (Healing)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869571,
+        "m_Localized": "Medicine that provides a moderate amount of healing. Can be \u003Cb\u003ECOMBINED\u003C/b\u003E for more potent effects.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869572,
+        "m_Localized": "Tonic (Healing, Potent)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869573,
+        "m_Localized": "Medicine that provides a large amount of healing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869574,
+        "m_Localized": "First Aid Kit",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869575,
+        "m_Localized": "Healing supply kit. Provides full healing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869576,
+        "m_Localized": "Tonic (Healing, Full)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869577,
+        "m_Localized": "Medicine that provides full healing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869578,
+        "m_Localized": "Antibiotics",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785925869579,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785930063872,
+        "m_Localized": "Healing Mixture (G\u002BG\u002BG)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785930063873,
+        "m_Localized": "Medicine that provides a potent amount of healing. Can be \u003Cb\u003ECOMBINED\u003C/b\u003E for more potent healing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785930063874,
+        "m_Localized": "Tonic (Catalyst)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27785930063875,
+        "m_Localized": "A medicinal root. Useless on it\u0027s own but can be \u003Cb\u003ECOMBINED\u003C/b\u003E with medicine to enhance the healing properties.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27799976787968,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27799976787969,
+        "m_Localized": "A token commemorating\r 18 months of sobriety. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27821418070016,
+        "m_Localized": "Hip Bag",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27821418070017,
+        "m_Localized": "Adds an additional \u003Cb\u003E\u003Ccolor=white\u003E2 slots\u003C/color\u003E\u003C/b\u003E to the inventory.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556480,
+        "m_Localized": "Cub Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556481,
+        "m_Localized": "Small key with bear cub tag.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556482,
+        "m_Localized": "Police Department Reception",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556483,
+        "m_Localized": "Silver City Sheriff\u0027s Office Reception",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556484,
+        "m_Localized": "Holloway Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556485,
+        "m_Localized": "Key with a tag that reads \u0022Holloway\u0022",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556486,
+        "m_Localized": "Motel Room 6 Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556487,
+        "m_Localized": "Key to room 6 at the Crimson Bear Motel",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556488,
+        "m_Localized": "Diner Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556489,
+        "m_Localized": "Key to front door of the Miner Diner.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556490,
+        "m_Localized": "Salmon Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556491,
+        "m_Localized": "Key with a salmon tag.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556492,
+        "m_Localized": "Police Department Restroom",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556493,
+        "m_Localized": "Silver City Sheriff\u0027s Office Restroom Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556494,
+        "m_Localized": "Abandoned Car Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556495,
+        "m_Localized": "A key found in the abandoned home in the Outskirts West.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556496,
+        "m_Localized": "Condemned Trailer Park Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556497,
+        "m_Localized": "It\u0027s a key that opens something. At least it probably does. Who knows?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556498,
+        "m_Localized": "Police Department IT Room",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556499,
+        "m_Localized": "The key to the IT room in the police derpartment",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556500,
+        "m_Localized": "Golden Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556501,
+        "m_Localized": "It\u0027s a key that opens something. At least it probably does. Who knows?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556502,
+        "m_Localized": "Crimson Bear Entrance Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556503,
+        "m_Localized": "The Staff key to the Main Gate of the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556504,
+        "m_Localized": "Park Gate Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556505,
+        "m_Localized": "A rusty looking Key, the engraving says \u0022Silver City Park\u0022.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556506,
+        "m_Localized": "Abandoned Cabin Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556507,
+        "m_Localized": "A rusty old door key.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556508,
+        "m_Localized": "Trailer Park Water Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556509,
+        "m_Localized": "Water Administrators Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556510,
+        "m_Localized": "Mainstreet Sewer Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556511,
+        "m_Localized": "A key to the maintenence room in the Mainstreet Sewers.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556512,
+        "m_Localized": "Opco Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556513,
+        "m_Localized": "A key to the OPCO Building on Mainstreet.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556514,
+        "m_Localized": "Sheriff\u0027s Office Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556515,
+        "m_Localized": "Sheriff\u0027s Office Key Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556516,
+        "m_Localized": "Trailer 04 Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556517,
+        "m_Localized": "It\u0027s a key that opens something. At least it probably does. Who knows?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556518,
+        "m_Localized": "Ferry Office Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556519,
+        "m_Localized": "Key to the Silver Pines ferry service in the outskirts.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556520,
+        "m_Localized": "Car Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27842561556521,
+        "m_Localized": "The key to my car.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27908730896384,
+        "m_Localized": "Machine Part",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27908730896385,
+        "m_Localized": "A massive, greasy cog. Property of the Silver City Mine tour.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781760,
+        "m_Localized": "Cavalry Sabre",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781761,
+        "m_Localized": "An old relic from Civil War times.  It can be \u003Cb\u003EEQUIPPED\u003C/b\u003E and used as a melee weapon. It\u0027s sharp with good reach, but seems brittle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781762,
+        "m_Localized": "Sledgehammer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781763,
+        "m_Localized": "Massive blunt hammer built for heavy construction. Can demolish cracked barriers or serve as a very heavy weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781764,
+        "m_Localized": "Boxcutter",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781765,
+        "m_Localized": "Hunting knife of simple design. Quick weapon with a low reach.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781766,
+        "m_Localized": "Fire Axe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781767,
+        "m_Localized": "Fire Axe with a fixed oak handle. Extremely lethal.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781768,
+        "m_Localized": "Large Pipe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781769,
+        "m_Localized": "A wooden board,  that can be \u003Cb\u003EEQUIPPED\u003C/b\u003E and used as an improvised melee weapon. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781770,
+        "m_Localized": "Crowbar",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781771,
+        "m_Localized": "Steel crowbar, heavy but durable. Can be used to break wooden objects.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781772,
+        "m_Localized": "Bottle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781773,
+        "m_Localized": "Glass container for storing liquids. It can be thrown as an improvised ranged weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781774,
+        "m_Localized": "Pipe Wrench",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 27920449781775,
+        "m_Localized": "Heavy pipe wrench with a short handle. Low reach but heavy impact.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250304,
+        "m_Localized": "Pipewrench Head",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250305,
+        "m_Localized": "The head of a pipewrench. Useless without a handle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250306,
+        "m_Localized": "Police Department Pass Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250307,
+        "m_Localized": "A pass ID, it belongs to an Errin Johnsson.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250308,
+        "m_Localized": "Jukebox Cables",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250309,
+        "m_Localized": "Cables for hooking up the Jukebox Disc Selector to the Jukebox. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250310,
+        "m_Localized": "Basic Gunpowder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250311,
+        "m_Localized": "Creates ammunition when \u003Cb\u003ECOMBINED\u003C/b\u003E with an ammunition maker.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250312,
+        "m_Localized": "Pool Net",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250313,
+        "m_Localized": "Net attached to a long handle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250314,
+        "m_Localized": "Mysterious Goo",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250315,
+        "m_Localized": "Collect lots of goo and something good might happen.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250316,
+        "m_Localized": "Refined Gunpowder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250317,
+        "m_Localized": "Used to craft advanced ammunition types",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250318,
+        "m_Localized": "Printer Ink",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250319,
+        "m_Localized": "Ink refill for a Rainbowmax 93\u0027 Printer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250320,
+        "m_Localized": "Rope",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250321,
+        "m_Localized": "Sturdy climbing rope.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250322,
+        "m_Localized": "Jukebox Disc Selector",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250323,
+        "m_Localized": "A jukebox Disc selector. Loaded with several compact discs, most of the country variety.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250324,
+        "m_Localized": "Coin",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250325,
+        "m_Localized": "A silver dollar. It can be used in phone booths and vending machines.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250326,
+        "m_Localized": "Electrical Fuse (40A)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250327,
+        "m_Localized": "Electrical Fuse for power boxes. It is rated for 40 Amperes.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250328,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250329,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250330,
+        "m_Localized": "Pipewrench Handle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250331,
+        "m_Localized": "A pipewrench handle with interchangeable head slots. It\u0027s missing a wrench head.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250332,
+        "m_Localized": "Repaired Jukebox Selector",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28094769250333,
+        "m_Localized": "A Jukebox Selector, it\u0027s hooked up and ready to be connected to the Jukebox at the Miner Diner.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28104189657088,
+        "m_Localized": "Battery",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28104189657089,
+        "m_Localized": "Multi purpose batteries for charging electrical devices.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28112892837888,
+        "m_Localized": "Flashlight",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28112892837889,
+        "m_Localized": "A pocket flashlight. \u003Cb\u003ETurn on\u003C/b\u003E to illuminate your surroundings. Uses batteries.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28163270623232,
+        "m_Localized": "Manhole Cover Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28163270623233,
+        "m_Localized": "Large cast Iron hex key. Used for lifting and hauling manhole covers.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28226264875008,
+        "m_Localized": "Keyring",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28226264875009,
+        "m_Localized": "Holds keys. A key can be \u003Cb\u003ECOMBINED\u003C/b\u003E with the keyring to add it to the keyring. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28240898801664,
+        "m_Localized": "Frankie Boy\u0027s Boots",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28240898801665,
+        "m_Localized": "These belonged to Frank Myers. The soil on the bottom of the boots has some distinctive coloring on it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890368,
+        "m_Localized": "Pipe Bomb",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890369,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890370,
+        "m_Localized": "Firecracker",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890371,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890372,
+        "m_Localized": "Frag Grenade",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890373,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890374,
+        "m_Localized": "Molotov Cocktail",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890375,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890376,
+        "m_Localized": "Stun Grenade",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890377,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890378,
+        "m_Localized": "Glowstick",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28282216890379,
+        "m_Localized": "WIP",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28331508350976,
+        "m_Localized": "Extended Magazine",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28331508350977,
+        "m_Localized": "Extended Magazine for the 1911 service pistol.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28331508350978,
+        "m_Localized": "Attachable Laser Sight",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28331508350979,
+        "m_Localized": "Underbarrel laser sight for the 1911 service pistol.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345370525696,
+        "m_Localized": "S-1 Carbine",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345370525697,
+        "m_Localized": "Lightweight semi-automatic service rifle. Uses .223 ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345370525698,
+        "m_Localized": "Model 7 Rifle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345370525699,
+        "m_Localized": "Bolt action hunting rifle designed for precision shooting. Uses .223 ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345370525700,
+        "m_Localized": "1911 Service Pistol",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345370525701,
+        "m_Localized": "Old military issue service pistol. Uses .38 ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345374720000,
+        "m_Localized": "W-500 Shotgun",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345374720001,
+        "m_Localized": "12 Guage Pump action shotgun designed for ease of use. Uses 12ga ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345374720002,
+        "m_Localized": "Swedish K SMG",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345374720003,
+        "m_Localized": "Compact model Submachine gun. Uses 9mm ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345374720004,
+        "m_Localized": "Big Ed Launcher",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 28345374720005,
+        "m_Localized": "A Break Action, portable launcher. Uses 40mm grenades as ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16019868581228544,
+        "m_Localized": "Repair Kit",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 16020053701029888,
+        "m_Localized": "Fully restores durability of a melee weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 18536615758655488,
+        "m_Localized": "Bandolier",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 18536646788116480,
+        "m_Localized": "Adds an additional \u003Cb\u003E\u003Ccolor=white\u003E4\u003C/color\u003E slots\u003C/b\u003E to the inventory.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20304639505010688,
+        "m_Localized": "Makeshift knife with poor reach and durability.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20667784178241536,
+        "m_Localized": "House on the Outskirts Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20668050810146816,
+        "m_Localized": "A key to the abandoned house in the Silver Pines Outskirts.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20722399624105984,
+        "m_Localized": "Cat Food",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20722816441454592,
+        "m_Localized": "Tin of Purrfect brand liver bites.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20749375179452416,
+        "m_Localized": "Hunting Knife",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 39922209128255488,
+        "m_Localized": "Belltower Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 39922358558724096,
+        "m_Localized": "A key to the community center Belltower.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 41040402821804032,
+        "m_Localized": "Nailgun",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 41040235901087744,
+        "m_Localized": "Pneumatic Nailer. Can be used as a makeshift ranged weapon when loaded with nails.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 41040874454511616,
+        "m_Localized": "Nails",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 41040917932666880,
+        "m_Localized": "Collated nails. Used in Nail Guns.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47855801299234816,
+        "m_Localized": "Reduces damage received by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47855922892107776,
+        "m_Localized": "Makes it easier to perform a fast reload",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47856027061841920,
+        "m_Localized": "Increases maximum health ({0})",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47856146649837568,
+        "m_Localized": "Weapons now have infinite ammunition",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47856233484513280,
+        "m_Localized": "Alerts when enemies are near from greater distance",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47856398245163008,
+        "m_Localized": "Melee weapons are more durable when attacking",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 47856667192324096,
+        "m_Localized": "Provides more detailed health information",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 48242441301651456,
+        "m_Localized": "Throwable hand crafted incendiary weapon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 48242633522409472,
+        "m_Localized": "Molotov Cocktail",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 48959663432863744,
+        "m_Localized": "Turf by the Surf Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 48959870975414272,
+        "m_Localized": "A key found at the Seafood Resturant on the Pier.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 51188961426345984,
+        "m_Localized": "Lever Handle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 51190420280774656,
+        "m_Localized": "The handle to a mechanical lever, it\u0027s missing the arm part.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 51191617641320448,
+        "m_Localized": "Lever Arm",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 51192882815373312,
+        "m_Localized": "The mechanical arm of some sort of lever, it\u0027s missing a handle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 51194225386917888,
+        "m_Localized": "Mechanical Lever",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 51195010363494400,
+        "m_Localized": "A heavy lever used to operate a storm gate.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 52917844706136064,
+        "m_Localized": "Patrol Car Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 52920174319046656,
+        "m_Localized": "Key to the trunk of a patrol car.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 53670213484089344,
+        "m_Localized": "Gasoline",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 53670522176475136,
+        "m_Localized": "Gas canister filled with highly flammable fuel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 53982711953297408,
+        "m_Localized": "Tonic (Antidote)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 53982949887774720,
+        "m_Localized": "Antidote that cures poison. Can be \u003Cb\u003ECOMBINED\u003C/b\u003E for more potent effects.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 54061676118216704,
+        "m_Localized": "Tonic (Healing, Antidote)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 54062186497904640,
+        "m_Localized": "Medicine that provides a moderate amount of healing and cures poison.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 54064549455532032,
+        "m_Localized": "Medicine that provides a very potent amount of healing and cures poison and provides a boost to \u003Cb\u003EStamina\u003C/b\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 54064489019805696,
+        "m_Localized": "Healing Mixture (G\u002BR\u002BB)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 55442958614073344,
+        "m_Localized": "Snub .38 Revolver",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 55442958651822080,
+        "m_Localized": "Compact revolver designed for concealed carry. Uses .38 ammunition.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 55449610532753408,
+        "m_Localized": "Double Barrel Shotgun",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 55449610532753409,
+        "m_Localized": "12 Guage Over-under shotgun with vertically aligned double barrels. Uses 12ga ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 57659337572421632,
+        "m_Localized": "Heavy Mechanical Cog",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 57659337597587456,
+        "m_Localized": "Heavy brass cog used to operate machinery. It doesn\u0027t look to be of this century.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 58796486384488448,
+        "m_Localized": "Mechanical Cog",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 58796486401265664,
+        "m_Localized": "Old brass cog used to operate machinery. It doesn\u0027t look to be of this century.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 59150647693217792,
+        "m_Localized": "Wharf Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 59150647718383616,
+        "m_Localized": "A key to the Wharf at the Pine Cove Marina.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 61819704548593664,
+        "m_Localized": "Oil Can",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 61819704586342400,
+        "m_Localized": "Typically used to lubricate machinery, there\u0027s some oil left inside.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 71410853615890432,
+        "m_Localized": "Camera",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 71410853636861952,
+        "m_Localized": "Compact camera that prints photos after capture that can be added to the map.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 76570220339990528,
+        "m_Localized": "Metal Pipe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 78659163741351936,
+        "m_Localized": "Unknown",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 78675925467787264,
+        "m_Localized": "Matchstick Box",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 78675925492953088,
+        "m_Localized": ".",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 78676381380243456,
+        "m_Localized": "Perform weapon reloads {0} faster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 78338599983845376,
+        "m_Localized": "Casette Tape",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 78338600055148544,
+        "m_Localized": "Casette Tape for replaying captured audio, the label reads \u0022Axe Master\u0022.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 81630417957752832,
+        "m_Localized": "Briefcase",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 81630417970335744,
+        "m_Localized": "A standard issue briefcase used by bureau field agents.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 88157511082962944,
+        "m_Localized": "Dodge with a faster roll",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 99362206136791040,
+        "m_Localized": "UV Flashlight",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 99362206161956864,
+        "m_Localized": "Flashlight that produces UV light.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 102224409510350848,
+        "m_Localized": "Soda",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 102224512581177344,
+        "m_Localized": "Refreshing beverage. Restores a minor amount of health.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 102239491418034176,
+        "m_Localized": "Delicious sugar pastry. Provides a minor amount of healing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 102239626776612864,
+        "m_Localized": "Pastry",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 104022198078738432,
+        "m_Localized": "Sheriff Department Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 104022198099709952,
+        "m_Localized": "A key found at the Sheriff\u0027s Department in Riverside.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 104095590274371584,
+        "m_Localized": "Interrogation Tape",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 104095590320508928,
+        "m_Localized": "Tape labelled Eddie Velvet. Found at the Riverside Sheriff\u0027s department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 106198756846297088,
+        "m_Localized": "Gas station Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 106198756871462912,
+        "m_Localized": "A key found near the Gas Station on Riverside.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 108723110125105152,
+        "m_Localized": "Heavy metal pipe, can serve as a dangerous improvised weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 119639293540036608,
+        "m_Localized": "Lantern",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 119639293565202432,
+        "m_Localized": "An old fashioned light source fueled by gas.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 120003568607555584,
+        "m_Localized": "Flare",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 120003568620138496,
+        "m_Localized": "Throwable emergency light flares, can be used as a temporary light source.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 125103182287015936,
+        "m_Localized": "Gentlemans Club Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 125103182337347584,
+        "m_Localized": "The key to the Mountain Lodge Gentleman\u0027s Club",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 127204102902714368,
+        "m_Localized": "Tile",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 127204102923685888,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 128669394715611136,
+        "m_Localized": "Mountain Trail Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 128669394757554176,
+        "m_Localized": "A key to the Mountain Trail Gate.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149665918173908992,
+        "m_Localized": "Laundry Token",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149665918199074816,
+        "m_Localized": "Plastic token for operating a communal washing machine.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149671143651741696,
+        "m_Localized": "Paint Solvent",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149671143651741697,
+        "m_Localized": "Can of gum turpentine. Used by painters to thin or remove paints.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149693013310640128,
+        "m_Localized": "Elevator Button",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149693013310640129,
+        "m_Localized": "A button for an elevator Panel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149693266738876416,
+        "m_Localized": "Strange Cylinder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149693266738876417,
+        "m_Localized": "A broken cylinder. It seems to be missing a piece.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149693719342026752,
+        "m_Localized": "Strange Cylinder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149693719342026753,
+        "m_Localized": "A broken cylinder. It seems to be missing a piece.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149694456465788928,
+        "m_Localized": "Floor 4 Button",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149694456465788929,
+        "m_Localized": "Elevator button made out of glass and plastic. Found at the apartments.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149695991715270656,
+        "m_Localized": "Supervisor\u0027s Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 149695991715270657,
+        "m_Localized": "A key found at the Unity Apartment building.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 150450102203125760,
+        "m_Localized": "Post Box Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 150450102228291584,
+        "m_Localized": "Blue key for a post box.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151525068893917184,
+        "m_Localized": "Apartment 4B Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151525069103632384,
+        "m_Localized": "A key to one of the apartments on the fourth floor of the Union building.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152635754982215680,
+        "m_Localized": "Storage Unit Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152635755049324544,
+        "m_Localized": "A key to the Storage units at the Unity Apartment building.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152996605486821376,
+        "m_Localized": "Aiming scope for a hunting rifle. Extends the ability to shoot at distant targets.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152996555482329088,
+        "m_Localized": "Rifle Scope",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 154446208811790336,
+        "m_Localized": "Reduces weapon sway while aiming",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 160560549940293632,
+        "m_Localized": "Shovel",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 160560549948682240,
+        "m_Localized": "Used for digging holes or as an unwieldy improvised weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162068197015359488,
+        "m_Localized": "Pump Arm",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162068197053108224,
+        "m_Localized": "An ornate arm for a water pump.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162769599861690368,
+        "m_Localized": "Parish Rectory Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162769599899439104,
+        "m_Localized": "A key to the Rectory Living quarters on the Parish grounds.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162795282520412160,
+        "m_Localized": "Misc_Church_Medallion",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162795282553966592,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162795655767330816,
+        "m_Localized": "Trial Medallion",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162795655767330817,
+        "m_Localized": "Medallion with the word \u0022Trial\u0022 inscribed.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162796019086331904,
+        "m_Localized": "Guilt Medallion",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162796019086331905,
+        "m_Localized": "Medallion with the word \u0022Guilt\u0022 inscribed.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162796295872647168,
+        "m_Localized": "Union Medallion",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162796295872647169,
+        "m_Localized": "Medallion with the word \u0022Union\u0022 inscribed.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162799793100099584,
+        "m_Localized": "Broken Medallion",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 162799793104293888,
+        "m_Localized": "Piece of a fractured Medallion.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 164259063578562560,
+        "m_Localized": "Confession Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 164259063599534080,
+        "m_Localized": "Key to a confession booth at the St Adjutor Parish Church.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167067380117999616,
+        "m_Localized": "Funeral Home Family Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167067380206080000,
+        "m_Localized": "Key to the second floor living quarters of the funeral home.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167256899303837696,
+        "m_Localized": "Pipe Bomb",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167256899345780736,
+        "m_Localized": "An improvised explosive with a pull fuse.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167436312872030208,
+        "m_Localized": "Metal Cube",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167436312893001728,
+        "m_Localized": "Cube adorned with religious symbols , there\u0027s a hole running through it for fitting it onto something.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167800690146349056,
+        "m_Localized": "Basement Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167800690179903488,
+        "m_Localized": "A Basement Key found inside a Mansion on Church Hill.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 168122102463664128,
+        "m_Localized": "Mixture that\u0027s useless on it\u0027s own but boosts the effect of tonics when \u003Cb\u003ECOMBINED\u003C/b\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 168126339289518080,
+        "m_Localized": "Flatleaf Herb",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 168126339289518081,
+        "m_Localized": "Herb with medicinal properties. Consume for a slow healing or \u003Cb\u003ECOMBINE\u003C/b\u003E with other herbs using bottles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 169205288379682816,
+        "m_Localized": "Star Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 169205288400654336,
+        "m_Localized": "Strange key with a star shaped insert.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170014333617377280,
+        "m_Localized": "Empty Bucket",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170014333650931712,
+        "m_Localized": "An empty bucket, found at the Parish Grounds.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170018361109712896,
+        "m_Localized": "Water Bucket",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170018361109712897,
+        "m_Localized": "A bucket with water from the Parish Grounds water pump.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170370446288293888,
+        "m_Localized": "Duct Tape",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170370446363791360,
+        "m_Localized": "Restores a small amount of durability to a melee weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170670880043372544,
+        "m_Localized": "Blackstem Nettle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 170670880118870016,
+        "m_Localized": "Herb with antidotal properties. Consume to reduce poison buildup or \u003Cb\u003ECOMBINE\u003C/b\u003E with other herbs using bottles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 171809933505662976,
+        "m_Localized": "Turkey\u0027s Crown",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 171809933551800320,
+        "m_Localized": "Mushroom with catalyst properties. Useless on it\u0027s own but boosts the effect of tonics when \u003Cb\u003ECOMBINED\u003C/b\u003E using bottles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172174436621684736,
+        "m_Localized": "Makeshift Repair Kit",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172174436672016384,
+        "m_Localized": "Restores a moderate amount of durability to a melee weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172183072660066304,
+        "m_Localized": "Spare Parts",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172183072660066305,
+        "m_Localized": "Scrap and spare parts, can be \u003Cb\u003ECOMBINED\u003C/b\u003E with other items.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175059994461147136,
+        "m_Localized": "Rifle Weapon Kit",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175059994473730048,
+        "m_Localized": "A selection of parts and tools that can be used to shorten a rifle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175060606057779200,
+        "m_Localized": "Compact Weapon Kit",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175060606057779201,
+        "m_Localized": "A set of tools and parts used to shorten the stock and barrel of a woodstock shotgun or rifle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175094749772713984,
+        "m_Localized": "Crank Handle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175094749810462720,
+        "m_Localized": "Sturdy mechnical crank worn from years of use. The end is shaped like a diamond.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175213134774865920,
+        "m_Localized": ".44 Magnum",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175213134779060224,
+        "m_Localized": "Heavy revolver known for its high stopping power. Uses .44 magnum ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175222648387473408,
+        "m_Localized": ".44 Magnum Cartridge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175222648387473409,
+        "m_Localized": "Heavy duty cartridges with extra stopping power. Used by hand cannons.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 178384229745102848,
+        "m_Localized": "RR-Mart Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 178384229866737664,
+        "m_Localized": "A key to the RR-Mart parking lot gate.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 180491124354125824,
+        "m_Localized": "Checkin Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 180491124383485952,
+        "m_Localized": "A key leading to the Checkin at the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 180546684554383360,
+        "m_Localized": "Room 2 Keycard",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 180546684554383361,
+        "m_Localized": "A motel guest pass for the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 180867329347620864,
+        "m_Localized": "Locked Ring Box",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 180867329381175296,
+        "m_Localized": "A small ringbox. The star constellation decor on the lid is missing pieces. There\u0027s no clear mechanism to open it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 181961900001398784,
+        "m_Localized": "Checkin Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 181961900013981696,
+        "m_Localized": "Key from the Crimson Bear Motel. It looks like it would fit in a small desk.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184495010721902592,
+        "m_Localized": "Blocking attacks uses less stamina",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184495709669109760,
+        "m_Localized": "Melee weapons are much more durable when used to block attacks.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184496960565751808,
+        "m_Localized": "Makes it easier to parry attacks",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184497464180027392,
+        "m_Localized": "Dodging / evading uses less stamina",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184522835134853120,
+        "m_Localized": "Rate of fire of firearms increased by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184524120219267072,
+        "m_Localized": "Reduced recoil from firearms",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184524495898882048,
+        "m_Localized": "The last shot before emptying a weapon does {0} more damage.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184538492547182592,
+        "m_Localized": "Stomping enemies deals extra damage ({0})",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184538749024677888,
+        "m_Localized": "Melee attacks are more likely to stagger enemies.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184539213397045248,
+        "m_Localized": "Melee attacks are {0} faster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184539360533229568,
+        "m_Localized": "Melee attacks use {0} less stamina",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184539532919123968,
+        "m_Localized": "Deal {0} more damage from melee attacks when \u003Cb\u003EWounded\u003C/b\u003E or \u003Cb\u003ECritical\u003C/b\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184540451341676544,
+        "m_Localized": "Running uses less stamina.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184541365129523200,
+        "m_Localized": "Run faster.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184553755577495552,
+        "m_Localized": "Stamina recovers faster.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184554363915153408,
+        "m_Localized": "Reduced delay on stamina recovery.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184557357779988480,
+        "m_Localized": "Swimming uses much less stamina.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185187719947554816,
+        "m_Localized": "Torn Polaroid",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185187719968526336,
+        "m_Localized": "One half of a torn up instant picture.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185208184564944896,
+        "m_Localized": "Misc_Motel_Torn_Polaroid_Alice_Top",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185208184564944897,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185214173057978368,
+        "m_Localized": "Picture of Alice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185214173057978369,
+        "m_Localized": "A picture of the girl Eddie was seeing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185947155649597440,
+        "m_Localized": "Motel Room 4 Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185947155691540480,
+        "m_Localized": "Key to room 2 at the Crimson Bear Motel",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192829541771448320,
+        "m_Localized": "Gear Box",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192829541784031232,
+        "m_Localized": "A replacement Gear Box for a Boat Engine.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192829857749340160,
+        "m_Localized": "Boat Engine",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192829857749340161,
+        "m_Localized": "Outboard motor for a small boat. It\u0027s very heavy.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 193604535648587776,
+        "m_Localized": "Bathroom Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 193604535896051712,
+        "m_Localized": "Key to restroom at the Wingoil gas station. It has a hefty wooden block attached to it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 194608899213299712,
+        "m_Localized": "Screwdriver",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 194608899246854144,
+        "m_Localized": "A flat head screwdriver. Can be used to secure or undo screws.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 202672718628065280,
+        "m_Localized": "Radio Control Head",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 202672718670008320,
+        "m_Localized": "The Control Head for a Car Radio.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 202684288410128384,
+        "m_Localized": "Sheriffs Department Gate Card",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 202684288410128385,
+        "m_Localized": "Add a description here.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 202692949895352320,
+        "m_Localized": "Cleaning Solution",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 202692949907935232,
+        "m_Localized": "Add a description here",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203311485038694400,
+        "m_Localized": "Painting",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203311485059665920,
+        "m_Localized": "Painting signed by DL, it seems to be part of a set.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203315386127290368,
+        "m_Localized": "Sea Polished Glass Shard",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203315386127290369,
+        "m_Localized": "Edges once sharp, now calm, soothing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 206230116349317120,
+        "m_Localized": "Camera Film",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 206230116370288640,
+        "m_Localized": "Blank Polaroids to be used together with a Polaroid Camera",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213155345063546880,
+        "m_Localized": "Red Light",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213155345109684224,
+        "m_Localized": "A powerful light bulb.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213157325156716544,
+        "m_Localized": "Red Lens",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213157325156716545,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213157618426646528,
+        "m_Localized": "Cyan Lens",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213157618426646529,
+        "m_Localized": "A lens dyed in a cyan hue.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213158187065217024,
+        "m_Localized": "Cyan Lens",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213158187065217025,
+        "m_Localized": "A crystal lens dyed in a cyan hue.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213159519893393408,
+        "m_Localized": "Yellow Lens",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213159519893393409,
+        "m_Localized": "A crystal lens dyed in a yellow hue.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213159758314409984,
+        "m_Localized": "Magenta Lens",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213159758314409985,
+        "m_Localized": "A dyed crystal lens used to produce colored lights.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213512483384397824,
+        "m_Localized": "Stage 1 Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213512483443118080,
+        "m_Localized": "Key to Stage 1 at the Theland broadcasting lot.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213519959710306304,
+        "m_Localized": "Rotary Dial",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213519959710306305,
+        "m_Localized": "A rotary dial for an old telephone.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213856138368454656,
+        "m_Localized": "Casette Tape",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213856138435563520,
+        "m_Localized": "VHS casette tape used for playing video. The Label is marked \u0022Love\u0022.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213867043361722368,
+        "m_Localized": "Clockwork Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 213867043365916672,
+        "m_Localized": "A winding crank for a clockwork mechanism.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215689913589903360,
+        "m_Localized": "Yellow Bird Statuette",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215689913615069184,
+        "m_Localized": "A small bird statuette.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215691058169327616,
+        "m_Localized": "Red Bird Statuette",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215692020980199424,
+        "m_Localized": "Silver Bird Statuette",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215644513412911104,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215984901654908928,
+        "m_Localized": "Tower Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215984901696851968,
+        "m_Localized": "Key to the antenna tower gate at the Theland broadcasting lot.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 216012001304711168,
+        "m_Localized": "Backdoor Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 216012001308905472,
+        "m_Localized": "Key to the east wing backdoor at the Theland broadcasting lot.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 223263652348497920,
+        "m_Localized": "Metal Spike",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 223263652373663744,
+        "m_Localized": "Long spike of an unknown metal with a sharp edge.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 223292770435796992,
+        "m_Localized": "Apartment Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 223292770435796993,
+        "m_Localized": "Apartment 1B Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 223582988682465280,
+        "m_Localized": "Wire Cutter",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 223582988703436800,
+        "m_Localized": "Old and rusted tool, it\u0027s still sharp.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 225055621903757312,
+        "m_Localized": "Game Token",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 225055621941506048,
+        "m_Localized": "A game token taken from the Crimson Bear Motel game room.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 226281115353559040,
+        "m_Localized": "Misc_Studio_Sound_Device",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 226571341594570752,
+        "m_Localized": "Studio Audio Cables",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238070733375082496,
+        "m_Localized": "Fuse Box Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238070733400248320,
+        "m_Localized": "Key to the main breaker panel at the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238084695978217472,
+        "m_Localized": "BB Rifle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238084695978217473,
+        "m_Localized": "A lever action air rifle. Manufactured by the Oh Deer Company. Uses BB pellett ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238088455458721792,
+        "m_Localized": "BB Pellet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238088455458721793,
+        "m_Localized": "All lead BB pellets. Used by air rifles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238149273470701568,
+        "m_Localized": "Cleaning Solution",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238149273470701569,
+        "m_Localized": "Bottle of Shine brand cleaning bleach.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238153645105680384,
+        "m_Localized": "Grizzly Suite Keycard",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238153645105680385,
+        "m_Localized": "Pass key to the Grizzly Suite at the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238154046873866240,
+        "m_Localized": "Grime Covered Card",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238154046873866241,
+        "m_Localized": "Keycard for one of the rooms at the Crimson Bear Motel. It\u0027s covered by a viscous grime that won\u0027t wipe away.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239240424818806784,
+        "m_Localized": "Door Knob",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239240424835584000,
+        "m_Localized": "Brass door knob with a palm tree motif etched into its surface.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239246190904676352,
+        "m_Localized": "Poolside Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239246190904676353,
+        "m_Localized": "Key to the poolside gate at the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243140740152889344,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243140740173860864,
+        "m_Localized": "Reduces durability loss when attacking with melee weapons.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243141017706762240,
+        "m_Localized": "Hula Figurine",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243141017706762241,
+        "m_Localized": "Parts still moving, smooth, unhindered.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362047614451527681,
+        "m_Localized": "A small decorative star, made to fit into a jewelry box design.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362047614451527680,
+        "m_Localized": "Star",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 244246524868505600,
+        "m_Localized": "Electrical Fuse (20A)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 244246524885282816,
+        "m_Localized": "Electrical Fuse for power boxes. It is rated for 20 Amperes.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 246449964979130368,
+        "m_Localized": "Motel Car Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 246449965033656320,
+        "m_Localized": "Key to a car trunk.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 248957986553008128,
+        "m_Localized": "Grimey Object",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 248957986653671424,
+        "m_Localized": "Some sort of metal object, it\u0027s covered by thick viscious grime.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 248961399021965312,
+        "m_Localized": "Grime Covered Object",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 248961399021965313,
+        "m_Localized": "A metal object covered in thick viscious grime.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252925311782293504,
+        "m_Localized": "Classroom A Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252925311979425792,
+        "m_Localized": "A key to one of the upstair classrooms at the Community Center.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252925624681566208,
+        "m_Localized": "Classroom B Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252925624681566209,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252925906090004480,
+        "m_Localized": "Computer Lab Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252925906090004481,
+        "m_Localized": "A key to the downstairs computer lab at the Community Center",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253283379820957696,
+        "m_Localized": "Ink Bottle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253283379955175424,
+        "m_Localized": "Glass bottle filled with black ink.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253290146583875584,
+        "m_Localized": "Printer Cartridge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253290146583875585,
+        "m_Localized": "A refilled ink cartridge.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253297327211352064,
+        "m_Localized": "Empty Printer Cartridge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253297327211352065,
+        "m_Localized": "An empty ink cartridge.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264000628349276160,
+        "m_Localized": "Briefing Room Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264000628789678080,
+        "m_Localized": "A key to the briefing room at Sheriffs department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264227962759221248,
+        "m_Localized": "Snake Earring",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264227962759221249,
+        "m_Localized": "The coiled silver catches light like a moving thing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264260820601212928,
+        "m_Localized": "Broken Car Antenna",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264260820643155968,
+        "m_Localized": "A telescopic radio antenna. It\u0027s broken beyond repair.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264263722807922688,
+        "m_Localized": "Site Cabin Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264263722807922689,
+        "m_Localized": "A key to the Site Cabin near the logging camp in Riverside.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264517890269319168,
+        "m_Localized": "Pipe Valve",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264517890307067904,
+        "m_Localized": "A valve used to turn on or off the flow through a pipe.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264519118768377856,
+        "m_Localized": "Lubricant",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264519118768377857,
+        "m_Localized": "Oil based lubricant for mechanical parts.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 284834975958777856,
+        "m_Localized": "Basement Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 284834975992332288,
+        "m_Localized": "Key to the basement at the sheriffs department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286744677642747904,
+        "m_Localized": "North Wing Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286744677672108032,
+        "m_Localized": "Key to the North wing at the sheriffs department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286745352531427328,
+        "m_Localized": "Evidence Lockup Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286745352531427329,
+        "m_Localized": "A key found at the Sheriffs department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286856363611602944,
+        "m_Localized": "Metal Handle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286856363628380160,
+        "m_Localized": "Metal handle with a built in clasp.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287075572916502528,
+        "m_Localized": "License Plate",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287075572933279744,
+        "m_Localized": "Beaten up old license plate. Strange holes have been cut into it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287573409127284736,
+        "m_Localized": "Locker Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287573409190199296,
+        "m_Localized": "Locker key, found near the sheriffs department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287809566230528000,
+        "m_Localized": "Armory Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287809566347968512,
+        "m_Localized": "Key to the armory at the sheriffs department.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287910251559206912,
+        "m_Localized": "Artifact_FasterStaminaRecovery",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287910251588567040,
+        "m_Localized": "Its weight sits unevenly, balanced through damage rather than despite it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287910676853243904,
+        "m_Localized": "Chipped Ceramic Bear",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287918399426740224,
+        "m_Localized": "Casette Tape",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287918399426740225,
+        "m_Localized": "Casette Tape for replaying captured audio, the label reads Eddie Velvet.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 288834172186341376,
+        "m_Localized": "Underpass Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 288834172228284416,
+        "m_Localized": "Gate key to the underpass access way.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 288897670320308224,
+        "m_Localized": "Gate Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 288897670395805696,
+        "m_Localized": "Key to the rear exit of the Riverside Junkyard.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 291427016721383424,
+        "m_Localized": "Weapon Utiltiy Case",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 291427016784297984,
+        "m_Localized": "Case used for weapon parts. It\u0027s locked.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 291432062917885952,
+        "m_Localized": "Weapon Case Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 291432062917885953,
+        "m_Localized": "Small key for a weapon utility case.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 291432818681135104,
+        "m_Localized": "Six-Shot Cylinder",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 291432818681135105,
+        "m_Localized": "A 6 chamber cylinder for a .38 revolver.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292107044220125184,
+        "m_Localized": "Riverside Bridge Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292107044241096704,
+        "m_Localized": "Key to the Riverside Bridge on Market St.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292140231541993472,
+        "m_Localized": "Badge 0013",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292140231592325120,
+        "m_Localized": "0013 stamped into dull brass. Some things only matter at the end.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312768518282100736,
+        "m_Localized": "Blade",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312768633457688576,
+        "m_Localized": "The blade from an old Paper Cutter. Sharp but fragile.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312848781167636480,
+        "m_Localized": "Double Action Mechanism",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312848781222162432,
+        "m_Localized": "Increases rate of fire for compatible revolvers",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312821098953654272,
+        "m_Localized": "Dried up Paint Solvent",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312821098974625792,
+        "m_Localized": "Dried up hardened paint solvet. Useless in it\u0027s current state.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312824027429289984,
+        "m_Localized": "Bottle of Alcohol",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312824027429289985,
+        "m_Localized": "Bottle filled with poorly distilled alcohol.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312843900654010368,
+        "m_Localized": "Union Level 3 Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312843900654010369,
+        "m_Localized": "Found inside the Union building.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313913366263967744,
+        "m_Localized": "Cable Station Bell (D)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313913366297522176,
+        "m_Localized": "Bronze bell inscribed with the letter \u0027D\u0027.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313913994465849344,
+        "m_Localized": "Cable Station Bell (E)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313914001805881344,
+        "m_Localized": "Cable Station Bell (F)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313914009607286784,
+        "m_Localized": "Cable Station Bell (A)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313914013617041408,
+        "m_Localized": "Cable Station Bell (B)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313913997699657728,
+        "m_Localized": "Bronze bell inscribed with the letter \u0027E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313914003642986496,
+        "m_Localized": "Bronze bell inscribed with the letter \u0027F\u0027.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313914011066904576,
+        "m_Localized": "Bronze bell inscribed with the letter \u0027A\u0027.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313914014871138304,
+        "m_Localized": "Bronze bell inscribed with the letter \u0027B\u0027.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314403920847912960,
+        "m_Localized": "Memento Vessel Shard",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314403921007296512,
+        "m_Localized": "Broken shard. It\u0027s strangely cold to the touch.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314404989153918976,
+        "m_Localized": "Repaired vessel, It\u0027s strangely familiar. Consume to equip additional mementos.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314405159576879104,
+        "m_Localized": "Memento Vessel",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314634373735464960,
+        "m_Localized": "Bloody Feathers",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314634373815156736,
+        "m_Localized": "Bloodied remains of a waterfowl.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314912863214977024,
+        "m_Localized": "Black Flesh",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314912863248531456,
+        "m_Localized": "Lump of warm flesh. It\u0027s strangely moldable.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314916159275220992,
+        "m_Localized": "Bird Effigy",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314916159275220993,
+        "m_Localized": "Mock bird molded from a lump of black flesh.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314960678121193472,
+        "m_Localized": "Injured Bird",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314960678125387776,
+        "m_Localized": "It\u0027s heart is beating rapidly.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319630489870745600,
+        "m_Localized": "Unmixed Plaster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319630489883328512,
+        "m_Localized": "Bucket of unprocessed plaster. Requires mixing before use.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319695087101624320,
+        "m_Localized": "Fireplace Tongs",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319695087122595840,
+        "m_Localized": "Pair of clawed tongs made of cast iron.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319695627495751680,
+        "m_Localized": "Weeping Mask",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319695627495751681,
+        "m_Localized": "Stone mask. It has an expression of sorrow.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319696106271358976,
+        "m_Localized": "Misc_Park_Plaster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319696106271358977,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319698915637149696,
+        "m_Localized": "Filled Ceramic Mold",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319698915637149697,
+        "m_Localized": "Ceramic mold filled with plaster mixture.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319702385555488768,
+        "m_Localized": "Empty Mold",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319702385555488769,
+        "m_Localized": "Ceramic mold for what appears to be a mask.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319710967034363904,
+        "m_Localized": "Plaster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319710967034363905,
+        "m_Localized": "Bucket of ready to use plaster.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319972737619673088,
+        "m_Localized": "Malformed Mask",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319972737649033216,
+        "m_Localized": "Mask made out of plaster. It\u0027s nearly featureless.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320339413003485184,
+        "m_Localized": "Blissful Mask",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320339413066399744,
+        "m_Localized": "Stone mask. It has an expression of ecstacy.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320350578504974336,
+        "m_Localized": "Townhall Office Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320350578504974337,
+        "m_Localized": "Key to the third floor office at the Townhall.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320425414480707584,
+        "m_Localized": "Smiling Mask",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320425414480707585,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 324429363898564608,
+        "m_Localized": "Flowershop Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 324429363953090560,
+        "m_Localized": "Key to the Ashbrook Florist on Church Hill.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 324857536524140544,
+        "m_Localized": "Cemetary Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 324857536587055104,
+        "m_Localized": "Badly burned key to the cemetary gate on Church Hill. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325090218118037504,
+        "m_Localized": "Utility Building Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325090218180952064,
+        "m_Localized": "A key to the Utility Building at the Union Apartments.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325124475720908800,
+        "m_Localized": "Projector Room Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325124475796406272,
+        "m_Localized": "A key to the second floor of the movie theatre in downtown Silver Pines.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325441321616093184,
+        "m_Localized": "Sleeping Rabbit Coin",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325441321658036224,
+        "m_Localized": "Small coin depicting a sleeping rabbit.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325441497592311808,
+        "m_Localized": "Drunken Rabbit Coin",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325441497592311809,
+        "m_Localized": "Small coin depicting an intoxicated rabbit.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325441507029495808,
+        "m_Localized": "Fighting Rabbit Coin",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 325441507029495809,
+        "m_Localized": "Small coin depicting two rabbits in a struggle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 331950463620562944,
+        "m_Localized": "Sewer Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 331950463645728768,
+        "m_Localized": "Key found in the sewers beneath Loomis St.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 331964640967868416,
+        "m_Localized": "Attic Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 331964640967868417,
+        "m_Localized": "Key found at the Funeral Home on Church Hill.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 332773812684800000,
+        "m_Localized": ".38 Bullets",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 332773901071368192,
+        "m_Localized": "Standard issue .38 caliber ammo. Used by small revolvers and handguns.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 333075496887730176,
+        "m_Localized": "Memento Increased Stomp Damage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 333075496959033344,
+        "m_Localized": "Increases your stomp damage.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 333075686373801984,
+        "m_Localized": "Cat Collar",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 333075686373801985,
+        "m_Localized": "The ornate bell hangs silent without a clapper, leaving only movement.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 334152523342495744,
+        "m_Localized": "Quiet Hour Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 334152523405410304,
+        "m_Localized": "Lockbox key with a cafe tag.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 334192903123451904,
+        "m_Localized": "Display Case Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 334192903123451905,
+        "m_Localized": "Small ornate key to a display case.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 339604950938107904,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": [
+              {
+                "rid": 1783862580481884396
+              }
+            ]
+          }
+        }
+      },
+      {
+        "m_Id": 340403247156162560,
+        "m_Localized": "Broken Plaque",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 340403247202299904,
+        "m_Localized": "Part of a small metal plaque. Several letters adorn it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345717973079638016,
+        "m_Localized": "Empty Matchstick Box",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345717973163524096,
+        "m_Localized": "Muscle memory easily handles the soft cardboard, the familiar feel of an imminent spark.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345718731237834752,
+        "m_Localized": "Switchblade Cufflink",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345718731237834753,
+        "m_Localized": "Polished too often, all edge and imitation confidence.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345723097818677248,
+        "m_Localized": "Damaged Compass",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345723097818677249,
+        "m_Localized": "The needle drifts and settles nowhere. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345723931470151680,
+        "m_Localized": "Repaired Polaroid",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345723931470151681,
+        "m_Localized": "The tear has been mended, the smile remains fragile.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345724744586313728,
+        "m_Localized": "Mended Tooth",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345724744586313729,
+        "m_Localized": "Fracture sealed but never corrected hides a pressure inside.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345724928988889088,
+        "m_Localized": "Worn Silver Buckle",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345725678594899968,
+        "m_Localized": "Driftwood Stake",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345725678594899969,
+        "m_Localized": "Natural edge formed enduring in water.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345725917011722240,
+        "m_Localized": "Faceless Coin",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345725917011722241,
+        "m_Localized": "Both sides are beaten smooth, equally devoid of mark and meaning.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345727031794810880,
+        "m_Localized": "Smooth Stone with a hole",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345727031794810881,
+        "m_Localized": "The round hollow narrows the world to a single point.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345727256336875520,
+        "m_Localized": "V Guitar Pick",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345727256336875521,
+        "m_Localized": "Smooth edges worn down by steadier hands.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345730980207738880,
+        "m_Localized": "30 Days Sober Chip",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345730980207738881,
+        "m_Localized": "Soft stamped lettering barely legible, worn down by touch.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345731351915347968,
+        "m_Localized": "Cracked Wrist Watch",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345731351915347969,
+        "m_Localized": "Moisture trapped beneath the clouded glass, inside the hands remain locked at a decisive moment.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345731584338509824,
+        "m_Localized": "Dice Pair",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345731584338509825,
+        "m_Localized": "One face promises luck, the other a price.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732023838654464,
+        "m_Localized": "Old Corsage Flower",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732023838654465,
+        "m_Localized": "The damp sweetness of perfume lingers, a small comfort.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732252642131968,
+        "m_Localized": "Rusted Spur",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732252642131969,
+        "m_Localized": "Corrosion stains the jagged and warped star, spikes still vicious and sharp.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732566707421184,
+        "m_Localized": "Red Driving Glove",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732566707421185,
+        "m_Localized": "The leather is flexible, creased and worn at the knuckles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732762472366080,
+        "m_Localized": "Polaroid Negative",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732762472366081,
+        "m_Localized": "Darkly through the burnt in reflection a faint image accompanied by regret.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732932106797056,
+        "m_Localized": "Stickshift 8 Ball",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 345732932106797057,
+        "m_Localized": "Resin polished smooth by restless hands. Beautiful and heavy.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346919166455967744,
+        "m_Localized": "Increased Weapon Recoil",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346919428075679744,
+        "m_Localized": "Increases Ranged Weapon Damage by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346920520687677440,
+        "m_Localized": "Healing speed from consuming a flatleaf herb is increased by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346921105046499328,
+        "m_Localized": "Better \u0026 faster weapon handling",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346921505879355392,
+        "m_Localized": "Headshots deal {0} extra damage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346921807613390848,
+        "m_Localized": "{0} extra damage for sprinting melee attack",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346922177676832768,
+        "m_Localized": "Final hit in a combo sequence does {0} extra damage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346923973375815680,
+        "m_Localized": "Reduced Melee Charge Attack Time by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346924315199008768,
+        "m_Localized": "Faster melee attacks when \u003Cb\u003EWounded\u003C/b\u003E or \u003Cb\u003ECritical\u003C/b\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346925149991333888,
+        "m_Localized": "Melee charged attacks do {0} more damage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346925313334308864,
+        "m_Localized": "All damage received is increased by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346925624455196672,
+        "m_Localized": "Slashing weapons deal {0} more damage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346926386224689152,
+        "m_Localized": "All Projectiles have {0} chance to penetrate their targets",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346926880389197824,
+        "m_Localized": "Melee weapons lose durability and break {0} faster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346927061486661632,
+        "m_Localized": "{0} more damage dealt by melee weapons",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346932290441572352,
+        "m_Localized": "All damage dealt is increased by {0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346934878440386560,
+        "m_Localized": "Increased available stamina",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 347210784450932736,
+        "m_Localized": "Use Healing Items Faster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 357767309711982592,
+        "m_Localized": "Cable",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 357767309879754752,
+        "m_Localized": "Cable used to connect and transmit audio. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359933250096939008,
+        "m_Localized": "Rusted Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359933250176630784,
+        "m_Localized": "Old and brittle key.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 360955280548249600,
+        "m_Localized": "Gold Ring",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 360955280577609728,
+        "m_Localized": "Tarnished wedding band of simple design.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 360957403000291328,
+        "m_Localized": "Gold Ring",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 360957403000291329,
+        "m_Localized": "Simple gold wedding band with a plain design.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362043027518730240,
+        "m_Localized": "Small jewelry box for a ring. The lid is decorated with small glass gems. Two are missing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362043366510768128,
+        "m_Localized": "Small jewelry box for a ring. The lid is decorated with small glass gems. One is missing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362094923159257088,
+        "m_Localized": "Bloodied Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362094923230560256,
+        "m_Localized": "Key sticky with blood.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362101133845544960,
+        "m_Localized": "Broken Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362101133845544961,
+        "m_Localized": "Broken key. It\u0027s sticky with blood.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362102250411212800,
+        "m_Localized": "Key_Studio_Nightmare_Phone_Half_2",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362102250411212801,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362467723166478336,
+        "m_Localized": "A double barrel hunting shotgun which fires buckshot shells. The barrel has been shortened and the stock removed to make it more compact.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362467983511121920,
+        "m_Localized": "Bolt action hunting rifle designed for precision shooting. The barrel has been shortened to make it more compact.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362804055352885248,
+        "m_Localized": "Motel Room Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362804055415799808,
+        "m_Localized": "Key card to Room 3 at the Crimson Bear Motel.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362828715289296896,
+        "m_Localized": "Casette Tape",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 362828715289296897,
+        "m_Localized": "Casette Tape for replaying captured audio, it has no label.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 363540017833918464,
+        "m_Localized": "Silver Gazette Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 363540017901027328,
+        "m_Localized": "A key to the local newspaper office.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 363576375092789248,
+        "m_Localized": "Pet Clinic Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 363576375117955072,
+        "m_Localized": "Staff key to the Friendly paws clinic.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364610934328606720,
+        "m_Localized": "Syringe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364610934391521280,
+        "m_Localized": "Glass syringe with a sharp needle. It\u0027s Empty.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364616072061599744,
+        "m_Localized": "Syringe Blue",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364616072061599745,
+        "m_Localized": "A syringe filled with an antidote solution.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 366006352304226304,
+        "m_Localized": "C18 Machine Pistol",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 366006352329392128,
+        "m_Localized": "Burst fire tactical pistol. Uses 9mm ammo.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 366112999659880448,
+        "m_Localized": "Baseball Bat",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 366112999726989312,
+        "m_Localized": "Old ash wood baseball bat. Can be used as a well balanced melee weapon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367086981338972160,
+        "m_Localized": "Ammunition Kit, Small",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367086981364137984,
+        "m_Localized": "\u003Cb\u003ECOMBINE\u003C/b\u003E with gunpowder to create ammuntion for small arms.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367087105368735744,
+        "m_Localized": "Ammunition Kit, Heavy",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367087105368735745,
+        "m_Localized": "\u003Cb\u003ECOMBINE\u003C/b\u003E with gunpowder to create ammuntion for advanced arms.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367090210084831232,
+        "m_Localized": "Cheaply cast, dented features dull from wear. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367121269837086720,
+        "m_Localized": "Pale Lichen",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367121269837086721,
+        "m_Localized": "Lichen with energising properties, can be consumed for a small boost to stamina or \u003Cb\u003ECOMBINED\u003C/b\u003E with other herbs using bottles.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367156257013972992,
+        "m_Localized": "Tonic (Energizing)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367156257013972993,
+        "m_Localized": "Energizing tonic that provides a moderate boost to stamina. Can be \u003Cb\u003ECOMBINED\u003C/b\u003E for more potent effects.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367163747122364416,
+        "m_Localized": "Tonic (Healing, Stamina)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367164042090987520,
+        "m_Localized": "Tonic that provides moderate healing \u0026 stamina boost.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367175724242649088,
+        "m_Localized": "Healing_Mixed_Medicine_WR",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367175724242649089,
+        "m_Localized": "Energizing tonic that provides a large boost to stamina.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367195482992230400,
+        "m_Localized": "Switchblade",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367195482996424704,
+        "m_Localized": "A small concealable knife capable at fast swings at close range.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 381258543239610368,
+        "m_Localized": "Extended Magazine Tube",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 381258543302524928,
+        "m_Localized": "8-shot internal magazine tube for the W-500 Shotgun.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 381429861692030976,
+        "m_Localized": "Bowling Car Key",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 381429861771722752,
+        "m_Localized": "Key to a car trunk.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383842310697336832,
+        "m_Localized": "Ferry Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383842310714114048,
+        "m_Localized": "-",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

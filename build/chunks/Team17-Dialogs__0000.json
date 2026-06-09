@@ -1,0 +1,11 @@
+{
+  "table": "Team17-Dialogs",
+  "lines": {
+    "11510034432": "Corrupted Data",
+    "246428807168": "Cannot load the saved data because it is corrupted.",
+    "624130076672": "Load Error",
+    "729486798848": "Save was created with a newer version of the game. Update to load this save.",
+    "2457721497268224": "Save Error",
+    "2457757085937664": "Failed to save"
+  }
+}

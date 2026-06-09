@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3M4/3SSRhooBcKQoRVlOnOglt+RQlDeKXv8rlP/RwGq4hN4fKYsbps8QY+7Tw8ToXvwljjI0rB9ztCU6qqS2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michal\\Documents\\subtitles-mod-game\\tools\\Extractor\\Extractor\\Extractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michal\\.nuget\\packages\\assetstools.net\\3.0.4\\assetstools.net.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

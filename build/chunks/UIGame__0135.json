@@ -1,0 +1,15 @@
+{
+  "table": "UIGame",
+  "lines": {
+    "355270029218017280": "Healing Items Used",
+    "355270054459338752": "Total Money Spent",
+    "355270079398670336": "Distance Travelled",
+    "355544394333548544": "Leave",
+    "355544433780977664": "Rest",
+    "355544455343894528": "Live",
+    "355546070410981376": "Food & Drink Items Consumed",
+    "355609503361789952": "Graphics",
+    "355616804663586816": "Active",
+    "370447815570698240": "Toggle Photos"
+  }
+}

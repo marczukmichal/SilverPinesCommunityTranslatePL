@@ -1,0 +1,371 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Characters_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -1330276776972607988
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 435200835584,
+        "m_Localized": "???",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 538485571584,
+        "m_Localized": "Jonas",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 791938973698,
+        "m_Localized": "Phone",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 791938973703,
+        "m_Localized": "Phone Operator",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 791938973709,
+        "m_Localized": "Red Walker",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 58792314733924352,
+        "m_Localized": "The Digging Man",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 293619435462799360,
+        "m_Localized": "Singing Salmon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 297213329592512512,
+        "m_Localized": "Deputy Roberts",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 304092238984474624,
+        "m_Localized": "Town Hall Woman",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 304092152921550848,
+        "m_Localized": "Unknown Caller",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 304092020662562816,
+        "m_Localized": "Cowboy",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 304095273157210112,
+        "m_Localized": "Conmag",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 309489029510938624,
+        "m_Localized": "Drew",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 309514725532712960,
+        "m_Localized": "Gallery Man",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313579459295391744,
+        "m_Localized": "Wulfe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 313579618343399424,
+        "m_Localized": "Eddie Velvet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314199906588372992,
+        "m_Localized": "TV",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314199944924311552,
+        "m_Localized": "Hitchhiker",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314200078118629376,
+        "m_Localized": "Clerk",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314200126944522240,
+        "m_Localized": "The Driver",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314200250177368064,
+        "m_Localized": "Show Host",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 319716762681688064,
+        "m_Localized": ".",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 322230419217858560,
+        "m_Localized": "Hank Jackman",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 332684128924319744,
+        "m_Localized": "Voicemail",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359914767454715904,
+        "m_Localized": "Alice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364180637833834496,
+        "m_Localized": "911 Operator",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364180746684411904,
+        "m_Localized": "Bartender",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181030143864832,
+        "m_Localized": "Boots",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181174025269248,
+        "m_Localized": "Cop",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181418788073472,
+        "m_Localized": "Man",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181451826606080,
+        "m_Localized": "Woman",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181594126757888,
+        "m_Localized": "Lady",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181630902415360,
+        "m_Localized": "Mario\u0027s Pizza",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181672728014848,
+        "m_Localized": "Phone",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181719729385472,
+        "m_Localized": "Radio Show Host",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181813107175424,
+        "m_Localized": "Chairman",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364181865330454528,
+        "m_Localized": "Town Hall Man",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364182156335460352,
+        "m_Localized": "Jane Doe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

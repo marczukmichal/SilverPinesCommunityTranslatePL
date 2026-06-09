@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Phonebook_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": 7138355701903420258
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 12507267072,
+        "m_Localized": "Mr Jackman (Save)",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 242865387534618624,
+        "m_Localized": "Crimson Bear Guests",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

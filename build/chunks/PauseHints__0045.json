@@ -1,0 +1,6 @@
+{
+  "table": "PauseHints",
+  "lines": {
+    "375098969713881088": "Press {input_0} and {input_1} to select items and then {input_2} to use items.\n\nThis lets you quickly use items such as consumable healing items without having to use the inventory page."
+  }
+}

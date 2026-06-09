@@ -1,0 +1,25 @@
+public enum DynamicHintEvent
+{
+	None,
+	AddItemToInventory,
+	EquippedMeleeWeapon,
+	EquippedRangedWeapon,
+	StartAiming,
+	PickedUpAmmoReload,
+	MeleeWeaponBroke,
+	EquippedSecondaryWeapon,
+	LoreAdded,
+	CombineHealingItems,
+	TakeBlockableDamage,
+	ShouldReloadHint,
+	CanRepairMelee,
+	QuickHealCombat,
+	QuickHealReminder,
+	FirstArtifact,
+	Poisoned,
+	NoArtifactSlots,
+	UseStorage,
+	QuickItemMain,
+	QuickItemSecondUsableItem,
+	Camera
+}

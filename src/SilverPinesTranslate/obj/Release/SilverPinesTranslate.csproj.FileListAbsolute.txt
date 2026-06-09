@@ -1,0 +1,10 @@
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.csproj.AssemblyReference.cache
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.AssemblyInfo.cs
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\bin\Release\SilverPinesTranslate.deps.json
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\bin\Release\SilverPinesTranslate.dll
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\bin\Release\SilverPinesTranslate.pdb
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.dll
+C:\Users\Michal\Documents\subtitles-mod-game\src\SilverPinesTranslate\obj\Release\SilverPinesTranslate.pdb

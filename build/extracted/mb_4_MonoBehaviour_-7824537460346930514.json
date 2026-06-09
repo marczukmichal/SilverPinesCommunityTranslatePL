@@ -1,0 +1,434 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Hints_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -8925844029173869953
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 2639278227456,
+        "m_Localized": "Crouch",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 2984125513728,
+        "m_Localized": "{input_0} Certain objects can be broken by attacking them",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3164405088256,
+        "m_Localized": "Press {input_0} to \u003Ccolor=white\u003E\u003Cb\u003EDodge\u003C/b\u003E\u003C/color\u003E past obstacles",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13236187283456,
+        "m_Localized": "Hold up and press jump to grab hold of the ledge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13715302629376,
+        "m_Localized": "Combine keys with the \u003Ccolor=white\u003E\u003Cb\u003Ekeyring\u003C/b\u003E\u003C/color\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762560,
+        "m_Localized": "Use \u003Ccolor=white\u003E\u003Cb\u003ESilver Coins\u003C/b\u003E\u003C/color\u003E to make calls",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762561,
+        "m_Localized": "Use the \u003Ccolor=white\u003E\u003Cb\u003EPhone\u003C/b\u003E\u003C/color\u003E to save your progress",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762562,
+        "m_Localized": "\u003Ccolor=white\u003E\u003Cb\u003EAim\u003C/b\u003E\u003C/color\u003E weapon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762563,
+        "m_Localized": "\u003Cb\u003EPress\u003C/b\u003E to view \u003Ccolor=white\u003E\u003Cb\u003EMap\u003C/b\u003E\u003C/color\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762564,
+        "m_Localized": "Open \u003Ccolor=white\u003E\u003Cb\u003EInventory\u003C/b\u003E\u003C/color\u003E to equip melee weapon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762565,
+        "m_Localized": "Press {input_0} to \u003Ccolor=white\u003E\u003Cb\u003EAttack\u003C/b\u003E\u003C/color\u003E with melee weapon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762566,
+        "m_Localized": "\u003Cb\u003EHold\u003C/b\u003E to \u003Ccolor=white\u003E\u003Cb\u003ERun\u003C/b\u003E\u003C/color\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 13825805762567,
+        "m_Localized": "\u003Ccolor=white\u003E\u003Cb\u003EFire\u003C/b\u003E\u003C/color\u003E weapon with {input_1} while holding down \u003Ccolor=white\u003E\u003Cb\u003EAim\u003C/b\u003E\u003C/color\u003E  {input_0}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14100142604288,
+        "m_Localized": "Open \u003Ccolor=white\u003E\u003Cb\u003EInventory\u003C/b\u003E\u003C/color\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 14100142604289,
+        "m_Localized": "Toggle \u003Ccolor=white\u003E\u003Cb\u003EFlashlight\u003C/b\u003E\u003C/color\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 181956292028207104,
+        "m_Localized": "Review in the Notes Tab",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 182280981174882304,
+        "m_Localized": "Press \u003Ccolor=white\u003EUp\u003C/color\u003E direction or {input_0} to climb",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 182281113786191872,
+        "m_Localized": "Jump",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 182634177172934656,
+        "m_Localized": "Hold up to Scale climbable objects",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 182634839097020416,
+        "m_Localized": "Hold up and press jump to Climb",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185627993203085312,
+        "m_Localized": "Use the \u003Ccolor=white\u003E\u003Cb\u003ECamera\u003C/b\u003E\u003C/color\u003E to add things you want to remember to the map",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185913011578146816,
+        "m_Localized": "Hold to Block",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185951985344516096,
+        "m_Localized": "Hold Up or Down to Climb Ladders",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192493858547380224,
+        "m_Localized": "\u003Ccolor=white\u003E\u003Cb\u003EThrow\u003C/b\u003E\u003C/color\u003E equipped bottles while aiming",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192819315780169728,
+        "m_Localized": "\u003Ccolor=white\u003E\u003Cb\u003EBlock\u003C/b\u003E\u003C/color\u003E with melee weapon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 210228883598422016,
+        "m_Localized": "\u003Ccolor=white\u003E\u003Cb\u003EDig\u003C/b\u003E\u003C/color\u003E with the shovel",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 248987937004130304,
+        "m_Localized": "Press \u003Ccolor=white\u003E\u003Cb\u003EDown\u003C/b\u003E\u003C/color\u003E to hang from a ledge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 260592003172610048,
+        "m_Localized": "Press {input_0} to Reload while aiming with {input_1}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 283407902245990400,
+        "m_Localized": "Then dial the number from \u003Ccolor=white\u003Eaddress book\u003C/color\u003E and press the \u003Ccolor=white\u003E\u0027Call\u0027 button\u003C/color\u003E to save your progress",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 283408243893022720,
+        "m_Localized": "First insert money into the payphone by selecting the \u003Ccolor=white\u003Ecoin slot\u003C/color\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 284195422432997376,
+        "m_Localized": "Press {input_0} to reload while aiming a weapon",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 284195608051920896,
+        "m_Localized": "Press {input_0} again when prompted to load the next round",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 284195984998215680,
+        "m_Localized": "Press {input_0} to shoot",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292184461580775424,
+        "m_Localized": "Quick Heal",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 308829435059060736,
+        "m_Localized": "Move slowly to avoid detection",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 346889112069992448,
+        "m_Localized": "\u003Cb\u003E\u003Ccolor=white\u003EMementos\u003C/b\u003E\u003C/color\u003E are special items which can be equipped to provide passive bonuses\n\nAt first, only one \u003Cb\u003E\u003Ccolor=white\u003EMemento\u003C/b\u003E\u003C/color\u003E can be active at a time",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 348319880499556352,
+        "m_Localized": "While \u003Cb\u003EPoisoned\u003C/b\u003E your maximum health is limited to \u003Cb\u003EWounded\u003C/b\u003E and your Stamina is reduced",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 349436457030643712,
+        "m_Localized": "It is not possible to equip any more \u003Cb\u003EMementos\u003C/b\u003E without unlocking more slots. Find \u003Cb\u003EShards\u003C/b\u003E in the world to increase the number of available Memento slots",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367916459473055744,
+        "m_Localized": "Mementos",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367916650582323200,
+        "m_Localized": "Poisoned",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367916793540980736,
+        "m_Localized": "Repairing Weapons",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 367916969643028480,
+        "m_Localized": "Memento Vessels",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 375079584416739328,
+        "m_Localized": "Storage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 375079639466979328,
+        "m_Localized": "Use the storage box to store items for later use. \r\n\r\nItems stored here can be retrieved from any storage box found in the world.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 375153348588417024,
+        "m_Localized": "Cycle items with {input_0} {input_1} and use item with {input_2}",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

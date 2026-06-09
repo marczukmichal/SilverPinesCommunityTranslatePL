@@ -1,0 +1,17 @@
+{
+  "_comment": "Reczne poprawki tlumaczen (nadpisuja AI). Tabela -> { KeyId: poprawny polski }. Build doklada to NA KONIEC, wiec ma priorytet nad _work.",
+  "Dialogue": {
+    "369680623652646913": "Chyba jesteś jego największym fanem.",
+    "369680623237410819": "Musiałem. Musiałem pozbyć się wszystkiego... To była jedyna droga, żeby zostawił mnie w spokoju."
+  },
+  "Hints": {
+    "248987937004130304": "Naciśnij <color=white><b>S</b></color>, aby zwisnąć z krawędzi",
+    "182280981174882304": "Naciśnij <color=white>W</color> lub [{input_0}], aby się wspiąć",
+    "182634177172934656": "Przytrzymaj W, aby wspinać się po obiektach",
+    "182634839097020416": "Przytrzymaj W i naciśnij skok, aby się wspiąć",
+    "185951985344516096": "Przytrzymaj W lub S, aby wspinać się po drabinach"
+  },
+  "PauseHints": {
+    "21656953012225": "Zeskakuj z krawędzi, aby uniknąć obrażeń od upadku.\n\nNaciśnij <color=white><b>S</b></color>, aby zwisnąć z krawędzi. Potem ponownie, aby zeskoczyć.\n"
+  }
+}

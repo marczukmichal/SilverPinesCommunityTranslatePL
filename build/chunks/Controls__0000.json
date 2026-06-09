@@ -1,0 +1,24 @@
+{
+  "table": "Controls",
+  "lines": {
+    "5970271481856": "Next Weapon",
+    "6059564019712": "Previous Weapon",
+    "8971996442624": "Interact",
+    "4831476002816": "Aim Direction",
+    "295625231511552": "Quick Map",
+    "296174353985536": "System Menu",
+    "296317782405120": "In Game Menu",
+    "301172378906624": "Map",
+    "301270072635392": "Inventory",
+    "310184784769024": "Move Down",
+    "317385276469248": "Proceed",
+    "318883809013760": "Use Camera",
+    "319102932037632": "Use Shovel",
+    "318797486043136": "Toggle Flashlight",
+    "1132507624452096": "Notes",
+    "76810469438468096": "Quick Heal",
+    "119891811197595648": "Use Selected Item",
+    "119895763754496000": "Previous Item",
+    "119895906167894016": "Next Item"
+  }
+}

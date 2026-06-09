@@ -1,0 +1,113 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Comics_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": 7377050174501490279
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 16137711616,
+        "m_Localized": "Uh...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": [
+              {
+                "rid": 7551901139015565371
+              }
+            ]
+          }
+        }
+      },
+      {
+        "m_Id": 194273996800,
+        "m_Localized": "What\u0027s with that red light?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": [
+              {
+                "rid": 7551901139015565372
+              }
+            ]
+          }
+        }
+      },
+      {
+        "m_Id": 2516442017792,
+        "m_Localized": "I\u0027m looking for this woman, have you seen her?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": [
+              {
+                "rid": 7551901139015565373
+              }
+            ]
+          }
+        }
+      },
+      {
+        "m_Id": 236964046046834688,
+        "m_Localized": "Intro",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 236964228851380224,
+        "m_Localized": "Meeting by the Ferry",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 236964460578287616,
+        "m_Localized": "Hank Calls",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 236964603289481216,
+        "m_Localized": "First Encounter",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 252246324951986176,
+        "m_Localized": "Drowning",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

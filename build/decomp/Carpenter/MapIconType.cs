@@ -1,0 +1,27 @@
+public enum MapIconType
+{
+	None,
+	Phone,
+	ItemBox,
+	ItemPickup,
+	Door,
+	StairsDown,
+	StairsUp,
+	StairsBoth,
+	PointOfInterest,
+	EditorOnly,
+	ItemBoxPhoneCombined,
+	Ladder,
+	VendingMachine,
+	GenericLocked,
+	WoodenBarricade,
+	Sealed,
+	RustedLock,
+	TarpWall,
+	LoreEntry,
+	BoatHarbor,
+	LootContainer,
+	UpgradeArtifact,
+	UpgradeStamina,
+	SaveRoomCombined
+}

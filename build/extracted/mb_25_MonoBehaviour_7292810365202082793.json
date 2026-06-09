@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Video_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": 5339539200183243962
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 12743453048385536,
+        "m_Localized": "\u0022A ride to the stars\u0022?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12743453073551360,
+        "m_Localized": "What\u0027s up there?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12743453081939968,
+        "m_Localized": "I\u0027ll show you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12743453232934912,
+        "m_Localized": "",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20320114752745472,
+        "m_Localized": "\u003Ci\u003EA ride to the stars...\u003C/i\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20320227013292032,
+        "m_Localized": "\u003Ci\u003EWhat\u0027s up there...?\u003C/i\u003E",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

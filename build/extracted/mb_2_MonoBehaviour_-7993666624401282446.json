@@ -1,0 +1,1073 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Television_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": -7211758869735360575
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 3715900190720,
+        "m_Localized": "Sure! With the smokes and the matches",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3715933745152,
+        "m_Localized": "that ring up to $49.00, Sir.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3715933745153,
+        "m_Localized": "No, that wasn\u0027t me.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3715933745154,
+        "m_Localized": "Now listen, I had nothing to do with that!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 3715933745155,
+        "m_Localized": "I\u0027m telling you, you\u0027ve got the wrong -",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172062074499887104,
+        "m_Localized": "Tonight on Terminal Drive: The mysterious driver pushes his V8 through unknown lands. Dark clouds at his heels with darker motives still.  Who is he? What\u0027s his mission? Who or what is he chasing? See the exhilarating new show tonight at 9.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172062074533441536,
+        "m_Localized": "The mysterious driver pushes his V8 through unknown lands.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172062074533441537,
+        "m_Localized": "Dark clouds at his heels with darker motives still. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172062074533441538,
+        "m_Localized": "Who is he? What\u0027s his mission?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172062074533441539,
+        "m_Localized": "Who or what is he chasing?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 172062074533441540,
+        "m_Localized": "See the exhilarating new show tonight at 9.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305916145664,
+        "m_Localized": "Good evening. Welcome to a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305937117184,
+        "m_Localized": "special edition of Public",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305941311488,
+        "m_Localized": "Affairs at OAC. Tonight we",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305941311489,
+        "m_Localized": "bring focus to recent events",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305941311490,
+        "m_Localized": "in Silver Pines where a young",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305941311491,
+        "m_Localized": "woman, Alice Baker, has",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305941311492,
+        "m_Localized": "disappeared. I see the",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305949700096,
+        "m_Localized": "switchboard looking like a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305949700097,
+        "m_Localized": "Christmas tree already, so",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305949700098,
+        "m_Localized": "let\u0027s go to our first caller.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305949700099,
+        "m_Localized": "Hello. You\u0027re on the air.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305953894400,
+        "m_Localized": "Well, I just want to say I",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305953894401,
+        "m_Localized": "think it\u0027s horrible, this",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305953894402,
+        "m_Localized": "business with the girl, and I",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305953894403,
+        "m_Localized": "hope they find her right",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305958088704,
+        "m_Localized": "away. One more thing. This",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305958088705,
+        "m_Localized": "other fella she was with, her boyfriend. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305958088706,
+        "m_Localized": "Yes, he\u0027s been mentioned in relation to this case.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305958088707,
+        "m_Localized": "What happened to him?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305962283008,
+        "m_Localized": "What does he know? Has anyone",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305962283009,
+        "m_Localized": "tried to find out? They should",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305962283010,
+        "m_Localized": "start there. That\u0027s what I",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305962283011,
+        "m_Localized": "think. He knows more than he\u0027s letting on.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305962283012,
+        "m_Localized": "You may be",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305966477312,
+        "m_Localized": "right. Let\u0027s go to our next caller.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305966477313,
+        "m_Localized": "This is for the",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305966477314,
+        "m_Localized": "officers working on this",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305966477315,
+        "m_Localized": "case. I can save y\u0027all a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305970671616,
+        "m_Localized": "whole lot of trouble right",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305970671617,
+        "m_Localized": "this minute if you just go by my advice. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305970671618,
+        "m_Localized": "And what is that?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305970671619,
+        "m_Localized": "Just pick up that man. He\u0027s dirty.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305974865920,
+        "m_Localized": "The boyfriend. Red Walker?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305974865921,
+        "m_Localized": "It\u0027s always the",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305974865922,
+        "m_Localized": "boyfriend. Don\u0027t these people watch TV?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305974865923,
+        "m_Localized": "We\u0027ll take a short",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305979060224,
+        "m_Localized": "break and be right back after",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820305979060225,
+        "m_Localized": "these messages.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306033586176,
+        "m_Localized": "We now have a special guest in the",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306033586177,
+        "m_Localized": "studio. Sir, you have met with the person",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306033586178,
+        "m_Localized": "of interest, Redmond Walker. What was",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306033586179,
+        "m_Localized": "your impression? ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306037780480,
+        "m_Localized": "He seemed like a nervous guy. Shifty. What did you talk about?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306037780481,
+        "m_Localized": "I asked him what he was doing and all I",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306037780482,
+        "m_Localized": "got back was excuses. I\u0027ve seen",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306041974784,
+        "m_Localized": "his type a million times in my line of work.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306041974785,
+        "m_Localized": "Sounds like he\u0027s hiding something.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306041974786,
+        "m_Localized": "With guys like this, it\u0027s not what they",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306041974787,
+        "m_Localized": "say. It\u0027s the eyes.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306046169088,
+        "m_Localized": "In the end, it\u0027s the lying that gets them. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306046169089,
+        "m_Localized": "The lying?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306050363392,
+        "m_Localized": "They tripped themselves up. Can\u0027t keep their story straight.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306050363393,
+        "m_Localized": "What do you think will happen now?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306050363394,
+        "m_Localized": "I\u0027ll go after him. Make him crack.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306050363395,
+        "m_Localized": "Like I said, this guy is a dime a dozen.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306054557696,
+        "m_Localized": "I\u0027m sure we\u0027ll find out what happened to",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306054557697,
+        "m_Localized": "the young lady very soon. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306054557698,
+        "m_Localized": "Comforting news. Thank you for joining us.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306109083648,
+        "m_Localized": "Sure, with the smokes and the matches that ring up to $49.00, Sir. No, no, that wasn\u0027t me. Now listen, I had nothing to do with that. I\u0027m telling you, you\u0027ve got the wrong.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306109083649,
+        "m_Localized": "that ring up to $49.00, Sir. No,",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306109083650,
+        "m_Localized": "no, that wasn\u0027t me. Now",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306109083651,
+        "m_Localized": "listen, I had nothing to do with that.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306113277952,
+        "m_Localized": "I\u0027m telling you, you\u0027ve got the wrong.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306117472256,
+        "m_Localized": "I thought I was going to have to walk all the way back into town. You\u0027re a lifesaver. Can you believe my stupid ex-boyfriend dumped me out here all by myself?What if something happened?Good thing you came along. A real gentleman. He\u0027s probably already back in town, drinking with his buddies, laughing his ass off. Oh, really?You\u0027re full of surprises, Mr. This could turn into one hell of a night.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306117472257,
+        "m_Localized": "the way back into town. You\u0027re a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306117472258,
+        "m_Localized": "lifesaver.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306117472259,
+        "m_Localized": "Can you believe my stupid ex-boyfriend",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306121666560,
+        "m_Localized": "dumped me out here all by myself?What if",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306121666561,
+        "m_Localized": "something happened?Good thing you came",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306121666562,
+        "m_Localized": "along. A real gentleman.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306125860864,
+        "m_Localized": "He\u0027s probably already back in town,",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306125860865,
+        "m_Localized": "drinking with his buddies, laughing his",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306125860866,
+        "m_Localized": "ass off.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306125860867,
+        "m_Localized": "Oh, really?You\u0027re full of",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306125860868,
+        "m_Localized": "surprises, Mr. This could turn into one",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306125860869,
+        "m_Localized": "hell of a night.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306134249472,
+        "m_Localized": "You sure showed him, Mr. You showed him good. He won\u0027t be bothering no one for a while. You got me all excited seeing you with that man putting the hurt on him. What\u0027s a girl got to do to get on your naughty list? Oh, but I\u0027ve been plenty bad, Mister. As bad as you need me to. And that\u0027s God\u0027s honest truth. I\u0027ll show you all right.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306138443776,
+        "m_Localized": "good. He won\u0027t be bothering no one for a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306138443777,
+        "m_Localized": "while.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306138443778,
+        "m_Localized": "You got me all excited seeing you with",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306138443779,
+        "m_Localized": "that man putting the hurt on him. What\u0027s",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306142638080,
+        "m_Localized": "a girl got to do to get on your naughty",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306142638081,
+        "m_Localized": "list?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306142638082,
+        "m_Localized": "Oh, but I\u0027ve been plenty bad, Mister. As",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306146832384,
+        "m_Localized": "bad as you need me to. And that\u0027s God\u0027s",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306146832385,
+        "m_Localized": "honest truth.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306151026688,
+        "m_Localized": "I\u0027ll show you all right.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306155220992,
+        "m_Localized": "Thanks for the ride. You sure know how to show a girl a good time. Don\u0027t be a stranger. Hot stuff.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306155220993,
+        "m_Localized": "I see you. I see you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306155220994,
+        "m_Localized": "stranger. Hot stuff.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306159415296,
+        "m_Localized": "I see you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306159415297,
+        "m_Localized": "I see you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306285244416,
+        "m_Localized": "- You\u0027re so beautiful. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306285244417,
+        "m_Localized": "- He says that too.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306285244418,
+        "m_Localized": "- Says what?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306285244419,
+        "m_Localized": "- That it\u0027s already happened. That I always say yes.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306289438720,
+        "m_Localized": "- Maybe you do. Maybe we were just meant to be. Like you\u0027ve been here all this time waiting for me. See. Perfect. Like it\u0027s always been there.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306289438721,
+        "m_Localized": "- It\u0027s cold.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306289438722,
+        "m_Localized": "- It\u0027ll warm up. There\u0027s time. We\u0027ll be together forever.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306289438723,
+        "m_Localized": "- Maybe you do. Maybe we were just meant to be.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306293633024,
+        "m_Localized": "Like you\u0027ve been here all this time waiting for me.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306293633025,
+        "m_Localized": "See. Perfect. Like it\u0027s always been there.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306293633026,
+        "m_Localized": "- It\u0027s cold.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306293633027,
+        "m_Localized": "- It\u0027ll warm up.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 184820306297827328,
+        "m_Localized": "There\u0027s time. We\u0027ll be together forever.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

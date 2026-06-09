@@ -1,0 +1,608 @@
+{
+  "m_Name": "01d40478010e79257d32eb9959e7298f.bundle",
+  "m_PreloadTable": {
+    "Array": [
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -7211758869735360575
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7993666624401282446
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 4724265784506368371
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3910152329251323897
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -3816699051324466521
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5090088858694849648
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -3089282820684766829
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6080308143150682917
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -4952133747094539254
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 298356018047738476
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -33555312940526806
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4348486165407019984
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 6054753668134729411
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -9095716443557704886
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 5339539200183243962
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7292810365202082793
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 6001876982321628226
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6172696150559810768
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 3756755333285800352
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4529570724564493788
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -5051138493888076582
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6288835806022554192
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -2078604629010157140
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -301498833946619485
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -1330276776972607988
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4390814234297686088
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 7377050174501490279
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1233715618601583793
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -2106780277375045532
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4877577557665937361
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -3581439867071459131
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7329826472836068140
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -8925844029173869953
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7824537460346930514
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 7138355701903420258
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5698624726807341311
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -9142675075971560051
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4788346759567038879
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -8110665744797688882
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -1230308117290503020
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -2421173065078126210
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8641033599288141904
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -4350953849725280798
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6799899416873043653
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": -9089951657933666538
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7516994968534969321
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 1366397972290707336
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -7884360992880192469
+      },
+      {
+        "m_FileID": 1,
+        "m_PathID": -2378050947708348859
+      },
+      {
+        "m_FileID": 2,
+        "m_PathID": 5794108641283005707
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3159235054489657596
+      }
+    ]
+  },
+  "m_Container": {
+    "Array": [
+      {
+        "first": "Assets/Localization/Tables/Bosses/Bosses_en.asset",
+        "second": {
+          "preloadIndex": 18,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -9095716443557704886
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Characters/Characters_en.asset",
+        "second": {
+          "preloadIndex": 36,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 4390814234297686088
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Comics/Comics_en.asset",
+        "second": {
+          "preloadIndex": 39,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -1233715618601583793
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Controls/Controls_en.asset",
+        "second": {
+          "preloadIndex": 63,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6799899416873043653
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Dialogue/Dialogue_en.asset",
+        "second": {
+          "preloadIndex": 45,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7329826472836068140
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Examinable/Examinable_en.asset",
+        "second": {
+          "preloadIndex": 66,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7516994968534969321
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Hints/Hints_en.asset",
+        "second": {
+          "preloadIndex": 48,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7824537460346930514
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/InteractPrompts/InteractPrompts_en.asset",
+        "second": {
+          "preloadIndex": 6,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -5090088858694849648
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Items/Items_en.asset",
+        "second": {
+          "preloadIndex": 9,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -6080308143150682917
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Levels/Levels_en.asset",
+        "second": {
+          "preloadIndex": 57,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -1230308117290503020
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Lore/Lore_en.asset",
+        "second": {
+          "preloadIndex": 69,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7884360992880192469
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Minigames/Minigames_en.asset",
+        "second": {
+          "preloadIndex": 15,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 4348486165407019984
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Objectives/Objectives_en.asset",
+        "second": {
+          "preloadIndex": 3,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 3910152329251323897
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/PauseHints/PauseHints_en.asset",
+        "second": {
+          "preloadIndex": 72,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 3159235054489657596
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Phonebook/Phonebook_en.asset",
+        "second": {
+          "preloadIndex": 51,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 5698624726807341311
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Radio/Radio_en.asset",
+        "second": {
+          "preloadIndex": 27,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 4529570724564493788
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Regions/Regions_en.asset",
+        "second": {
+          "preloadIndex": 54,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -4788346759567038879
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Save/Save_en.asset",
+        "second": {
+          "preloadIndex": 33,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -301498833946619485
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/SystemMenu/SystemMenu_en.asset",
+        "second": {
+          "preloadIndex": 24,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6172696150559810768
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Team17/Team17-Dialogs_en.asset",
+        "second": {
+          "preloadIndex": 42,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 4877577557665937361
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Team17/Team17-Engagement_en.asset",
+        "second": {
+          "preloadIndex": 12,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 298356018047738476
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Television/Television_en.asset",
+        "second": {
+          "preloadIndex": 0,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -7993666624401282446
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/UICommon/UICommon_en.asset",
+        "second": {
+          "preloadIndex": 60,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": -8641033599288141904
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/UIGame/UIGame_en.asset",
+        "second": {
+          "preloadIndex": 30,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 6288835806022554192
+          }
+        }
+      },
+      {
+        "first": "Assets/Localization/Tables/Video/Video_en.asset",
+        "second": {
+          "preloadIndex": 21,
+          "preloadSize": 3,
+          "asset": {
+            "m_FileID": 0,
+            "m_PathID": 7292810365202082793
+          }
+        }
+      }
+    ]
+  },
+  "m_MainAsset": {
+    "preloadIndex": 0,
+    "preloadSize": 0,
+    "asset": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  },
+  "m_RuntimeCompatibility": 1,
+  "m_AssetBundleName": "01d40478010e79257d32eb9959e7298f.bundle",
+  "m_Dependencies": {
+    "Array": [
+      "cab-0cdc1fceba2dfcbd7162d256ea5b2d5e",
+      "cab-5cff255f4e4895e1fe1d3ea2bbd44bd1"
+    ]
+  },
+  "m_IsStreamedSceneAssetBundle": false,
+  "m_ExplicitDataLayout": 1,
+  "m_PathFlags": 0,
+  "m_SceneHashes": {
+    "Array": []
+  }
+}

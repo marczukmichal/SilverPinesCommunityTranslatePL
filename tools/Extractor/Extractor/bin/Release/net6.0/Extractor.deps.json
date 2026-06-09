@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Extractor/1.0.0": {
+        "dependencies": {
+          "AssetsTools.NET": "3.0.4"
+        },
+        "runtime": {
+          "Extractor.dll": {}
+        }
+      },
+      "AssetsTools.NET/3.0.4": {
+        "runtime": {
+          "lib/netstandard2.0/AssetsTools.NET.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Extractor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssetsTools.NET/3.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NqYy5UIucwKwdkpamFTi8lr53hD+V8qQmbHzztQj1v4Pq1G4TjNlpkUWOhktTLBqBm4aPRaAkpFgB+3TDEuomw==",
+      "path": "assetstools.net/3.0.4",
+      "hashPath": "assetstools.net.3.0.4.nupkg.sha512"
+    }
+  }
+}

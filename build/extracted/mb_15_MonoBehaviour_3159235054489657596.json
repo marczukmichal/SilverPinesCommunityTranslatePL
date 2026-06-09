@@ -1,0 +1,443 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "PauseHints_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": 5794108641283005707
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 21656923652096,
+        "m_Localized": "Phones \u0026 Saving",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656948817920,
+        "m_Localized": "You can use the phone to \u003Ccolor=white\u003E\u003Cb\u003Esave your progress\u003C/b\u003E\u003C/color\u003E as well as call other contacts you meet in the world.\n\nMaking a call with a payphone costs \u003Ccolor=white\u003E\u003Cb\u003E$1\u003C/b\u003E\u003C/color\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656948817921,
+        "m_Localized": "Turning on the Flashlight",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656948817922,
+        "m_Localized": "Open \u003Ccolor=white\u003E\u003Cb\u003EInventory\u003C/b\u003E\u003C/color\u003E to turn on the flashlight.\n\nThe flashlight greatly increases vision in dark areas when turned on but will consume charge while active.\n\nCombine with \u003Ccolor=white\u003E\u003Cb\u003EBatteries\u003C/b\u003E\u003C/color\u003E to recharge the flashlight.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012224,
+        "m_Localized": "Drop Down",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012225,
+        "m_Localized": "Drop down from ledges to avoid fall damage.\n\nPress \u003Ccolor=white\u003E\u003Cb\u003EDown\u003C/b\u003E\u003C/color\u003E to hang from a ledge. Then again to drop down.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012226,
+        "m_Localized": "Item Box Storage",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012227,
+        "m_Localized": "Use the \u003Ccolor=\u0022white\u003Etransfer\u003C/color\u003E action to move items between your inventory and storage.\n\nInventory space is very limited, only bring the essentials.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012228,
+        "m_Localized": "Melee Attacks",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012229,
+        "m_Localized": "You can perform two types of attack with melee weapons.\n\n\u003Ccolor=white\u003E\u003Cb\u003ETap\u003C/b\u003E\u003C/color\u003E {input_0} to perform a quick attack.\n\n\u003Ccolor=white\u003E\u003Cb\u003EHold\u003C/b\u003E\u003C/color\u003E {input_0} to charge an overhead swing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012230,
+        "m_Localized": "Equipping Melee weapons",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012231,
+        "m_Localized": "Open \u003Ccolor=white\u003E\u003Cb\u003EInventory\u003C/b\u003E\u003C/color\u003E to equip melee weapons such as the boxcutter.\n\nSelect the weapon, then use the \u003Ccolor=white\u003E\u003Cb\u003EEquip\u003C/b\u003E\u003C/color\u003E option to equip it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012232,
+        "m_Localized": "Equipping Ranged Weapons",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012233,
+        "m_Localized": "Open \u003Ccolor=white\u003E\u003Cb\u003EInventory\u003C/b\u003E\u003C/color\u003E to equip a firearm.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012234,
+        "m_Localized": "Keyring",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012235,
+        "m_Localized": "Keys in your inventory can be \u003Ccolor=\u0022white\u003Ecombined\u003C/color\u003E with the keyring to save space in your inventory.\n \n\u003Ccolor=\u0022white\u003EUse\u003C/color\u003E the keyring to access your stored keys.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012236,
+        "m_Localized": "Evading Enemies",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012237,
+        "m_Localized": "\u003Ccolor=white\u003E\u003Cb\u003ETap\u003C/b\u003E\u003C/color\u003E {input_0} while moving in a direction to move past enemies.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012238,
+        "m_Localized": "Reloading Weapons",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21656953012239,
+        "m_Localized": "Press \u003Ccolor=white\u003E\u003Cb\u003EReload\u003C/b\u003E\u003C/color\u003E while aiming to begin reloading.\n\nPress \u003Ccolor=white\u003E\u003Cb\u003EReload\u003C/color\u003E\u003C/b\u003E again while inside the highlighted area to insert ammunition.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 358086984187904,
+        "m_Localized": "Attack",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 358135415816192,
+        "m_Localized": "Reload",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 358202088472576,
+        "m_Localized": "Evade",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20655094888525824,
+        "m_Localized": "Ranged Attacks",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20655143739584512,
+        "m_Localized": "Hold {input_0} to aim weapons and then use {input_1} to fire.\n\nIt is only possible to aim while a ranged weapon is \u003Ccolor=white\u003E\u003Cb\u003EEquipped\u003C/b\u003E\u003C/color\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 20655926782586880,
+        "m_Localized": "Aim",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21071950237528064,
+        "m_Localized": "Weapon Durability",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 21071908256739328,
+        "m_Localized": "Melee weapons will take damage after use and will eventually break.\r\n\rBroken weapons are much less effective. \r\n\r\nIt is possible to repair a weapon by combining it with repair items such as \u003Cb\u003E\u003Ccolor=white\u003EDuct Tape\u003C/color\u003E\u003C/b\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 49012556477624320,
+        "m_Localized": "Use Secondary",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 49012771502813184,
+        "m_Localized": "Secondary / Throwable Items",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 49012903992487936,
+        "m_Localized": "While using the \u003Ccolor=white\u003E\u003Cb\u003EAim\u003C/b\u003E\u003C/color\u003E action press the  \u003Ccolor=white\u003E\u003Cb\u003ESecondary Action\u003C/b\u003E\u003C/color\u003E action to use (throw) the item.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 91055923226865664,
+        "m_Localized": "Reviewing Case Notes",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 91055962623963136,
+        "m_Localized": "Important documents found are added to the map and can be reviewed later.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 96861363101626368,
+        "m_Localized": "Mementos",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 96861441174401024,
+        "m_Localized": "Julee the Waitress can help you identify \u003Cb\u003EMementos\u003C/b\u003E found in the world. \n\nOnce identified, Mementos can be equipped and provide enhancements. \n\nUnlock more \u003Cb\u003EMemento Slots\u003C/b\u003E by providing Julee with \u003Cb\u003EIdentify Documents\u003C/b\u003E found in the world.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 99687365515276288,
+        "m_Localized": "Combining Items",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 99687405486993408,
+        "m_Localized": "Combine items using the Inventory screen. \n\nCombined healing items for a more potent effect and to free up item space in inventory.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 128659377201737728,
+        "m_Localized": "The camera item allows you to take photos as you explore. These photos will be attached to the map where the photo was taken. Sometimes you may want to note an area to return to later.\n\nYou can use {input_0} to use the currently selected item.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 128659290346090496,
+        "m_Localized": "Camera",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 128659568705269760,
+        "m_Localized": "Quick Item Select",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 174714061004025856,
+        "m_Localized": "Digging",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 174714096466866176,
+        "m_Localized": "You can use the shovel to try to find items buried in the ground.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 352008630282874880,
+        "m_Localized": "Melee weapons will take damage after use and will eventually break.\n\rBroken weapons are much less effective. \n\nIt is possible to repair a weapon by combining it with repair items such as \u003Cb\u003E\u003Ccolor=white\u003EDuct Tape\u003C/color\u003E\u003C/b\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 352008679549169664,
+        "m_Localized": "Combine items by using the Combine option in the item menu.\n\nCombine herbs and bottles to produce healing \u003Ccolor=white\u003E\u003Cb\u003ETonics\u003C/b\u003E\u003C/color\u003E.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 375098927808589824,
+        "m_Localized": "Item Quick Use",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 375098969713881088,
+        "m_Localized": "Press {input_0} and {input_1} to select items and then {input_2} to use items.\n\nThis lets you quickly use items such as consumable healing items without having to use the inventory page.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

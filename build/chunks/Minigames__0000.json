@@ -1,0 +1,19 @@
+{
+  "table": "Minigames",
+  "lines": {
+    "52051165184": "Available Funds",
+    "156728410112": "Addresses",
+    "259094593536": "Click to quick dial",
+    "23241709884403712": "Insufficient Credit",
+    "23241914193145856": "Error",
+    "23241987350196224": "{0} Selected",
+    "23243499828801536": "INSERT COINS   INSERT COINS   ",
+    "23251737831927808": "Selected Item",
+    "23251831851446272": "COIN RETURN",
+    "25120536281608192": "There is a slot to insert a 40 A fuse here.",
+    "243881464203653120": "There is a slot to insert a 20 A fuse here.",
+    "353090557689589760": "It's empty.",
+    "353090610823032832": "There was a single coin left inside.",
+    "353090668863811584": "There were several coins left inside."
+  }
+}

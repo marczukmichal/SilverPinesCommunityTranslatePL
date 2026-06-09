@@ -1,0 +1,497 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Radio_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": 3756755333285800352
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 12346041515454464,
+        "m_Localized": "Evacuation order in effect. All residents still in the Silver Pines area shelter in a safe place. Stay on this frequency for further updates.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041540620288,
+        "m_Localized": "You\u0027ve all heard the news by now. We\u0027re in for a bit more than just a gust of wind. I\u0027ll try to stay on the air for as long as possible, keeping you company. What better way is there to ride out a storm than with Sharon Maple and the seedlings?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041544814592,
+        "m_Localized": "in for a bit more than just a gust of",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041544814593,
+        "m_Localized": "wind. I\u0027ll try to stay on the air for as",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041544814594,
+        "m_Localized": "long as possible, keeping you company.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041549008896,
+        "m_Localized": "What better way is there to ride out a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041549008897,
+        "m_Localized": "storm than with Sharon Maple and the",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041549008898,
+        "m_Localized": "seedlings?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041553203200,
+        "m_Localized": "They say it\u0027s starting to look like the storm of \u002744. Some of us are old enough to remember how that turned out. For you youngins, we have the flooding to thank for that atrocious union building sitting at the center of town. All the old buildings washed away. Times change, but something stay the same. Like Chester Reynolds in the unforgettable Heartbeat Tango.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041553203201,
+        "m_Localized": "storm of \u002744. Some of us are old",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397504,
+        "m_Localized": "enough to remember how that turned out.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397505,
+        "m_Localized": "For you youngins, we have the flooding to",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397506,
+        "m_Localized": "thank for that atrocious union building",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397507,
+        "m_Localized": "sitting at the center of town. All the",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397508,
+        "m_Localized": "old buildings washed away. Times change,",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397509,
+        "m_Localized": "but something stay the same. Like Chester",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397510,
+        "m_Localized": "Reynolds in the unforgettable Heartbeat",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041557397511,
+        "m_Localized": "Tango.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041565786112,
+        "m_Localized": "Seems like the antenna up at the Silver Line Studio building is still holding up and we\u0027re still on the air. That studio is, of course, famous, or infamous if you like, for the Terminal Drive TV series. It put Silver Pines on the map, but it didn\u0027t do much to show its fine citizens in a very good light. That\u0027s water under the bridge. And Speaking of water, here\u0027s Stephen Waters and SunshineMelody.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041565786113,
+        "m_Localized": "Line Studio building is still holding up",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041565786114,
+        "m_Localized": "and we\u0027re still on the air. That studio",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041565786115,
+        "m_Localized": "is, of course, famous, or infamous if you",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041569980416,
+        "m_Localized": "like, for the Terminal Drive TV series.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041569980417,
+        "m_Localized": "It put Silver Pines on the map, but it",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041569980418,
+        "m_Localized": "didn\u0027t do much to show its fine citizens",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041569980419,
+        "m_Localized": "in a very good light. That\u0027s water",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041574174720,
+        "m_Localized": "under the bridge. And Speaking of water,",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041574174721,
+        "m_Localized": "here\u0027s Stephen Waters and SunshineMelody.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041578369024,
+        "m_Localized": "Let\u0027s spare a thought and a prayer for the woman who went missing a little while ago. Since the evacuation, there has been no active effort to find her. Call me a hopeless optimist, but I like to believe that she has found safety somewhere dry and warm and is riding out the storm along with us. Wherever you are, our thoughts are with you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041578369025,
+        "m_Localized": "the woman who went missing a little while",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041578369026,
+        "m_Localized": "ago. Since the evacuation, there has been",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041578369027,
+        "m_Localized": "no active effort to find her. Call me",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041582563328,
+        "m_Localized": "a hopeless optimist, but I like to",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041582563329,
+        "m_Localized": "believe that she has found safety",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041582563330,
+        "m_Localized": "somewhere dry and warm and is riding out",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041582563331,
+        "m_Localized": "the storm along with us. Wherever you",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041586757632,
+        "m_Localized": "are, our thoughts are with you.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041586757633,
+        "m_Localized": "This is why I never tire of broadcasting. Just a few moments ago I had a visitor here in my studio shack, a man on horseback, all dressed in white. I kid you not, he said to tell you all that he was out there keeping an eye on things. Isn\u0027t that something? Never a dull moment in Silver Pines.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041586757634,
+        "m_Localized": "Just a few moments ago I had a visitor",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041590951936,
+        "m_Localized": "here in my studio shack, a man on",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041590951937,
+        "m_Localized": "horseback, all dressed in white. I kid",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041590951938,
+        "m_Localized": "you not, he said to tell you all that",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041590951939,
+        "m_Localized": "he was out there keeping an eye on",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041590951940,
+        "m_Localized": "things. Isn\u0027t that something? Never a",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041590951941,
+        "m_Localized": "dull moment in Silver Pines.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041599340544,
+        "m_Localized": "Well, the hour is drawing to a close, wind howling outside my window. If you\u0027re still out there, I hope you find shelter soon and that whatever unfinished business you have gets resolved. I\u0027ll stay on for now, hoping to hear some good news.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041599340545,
+        "m_Localized": "wind howling outside my window. If you\u0027re",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041603534848,
+        "m_Localized": "still out there, I hope you find shelter",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041603534849,
+        "m_Localized": "soon and that whatever unfinished",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041603534850,
+        "m_Localized": "business you have gets resolved. I\u0027ll",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041603534851,
+        "m_Localized": "stay on for now, hoping to hear some good",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 12346041607729152,
+        "m_Localized": "news.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}

@@ -1,0 +1,1568 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": -2378050947708348859
+  },
+  "m_Name": "Lore_en",
+  "m_LocaleId": {
+    "m_Code": "en"
+  },
+  "m_SharedData": {
+    "m_FileID": 2,
+    "m_PathID": 1366397972290707336
+  },
+  "m_Metadata": {
+    "m_Items": {
+      "Array": []
+    }
+  },
+  "m_TableData": {
+    "Array": [
+      {
+        "m_Id": 165712609286,
+        "m_Localized": "The woman on the phone gave me the entry code to the weapon locker in the gift shop. She says the code is 6671.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 165712609292,
+        "m_Localized": "Thank you for choosing the Crimson Bear Motel.\r\n\r\nINCLUDED WITH YOUR STAY\r\n\r\n\u2022 In-room television with local programming \u0026 family entertainment\r\n\u2022 Pool open daily\r\n\u2022 Arcade \u0026 recreation in the Grizzly Fun Games Room (10AM to 9PM)\r\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 165712609294,
+        "m_Localized": "Harbor workers were left scratching their heads this week when a Chinese cargo ship that was found drifting downriver without a crew, was towed into port.\n\n\nThe aging vessel hasn\u0027t been registered in the area for nearly 30 years, leaving locals wondering how it got here and why it was abandoned. No owner has come forward, and officials admit they are uncertain what can legally be done.\n\n\nFor now the ghost ship sits silent at the docks, drawing uneasy looks and late night stories from curious residents.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 165712609296,
+        "m_Localized": "A zine authored by a group of self proclaimed anarchohackers known only as \u0022Shogun\u0022. \n\nIt is filled with far out takes and paranoid conspiracy theories all delivered from supposed first hand reports and goverment data hacks. \n\nThe pieces within cover a wide range of topics from folk lore, to Illuminati style world governance and alien abductions. \n\nThe quality of the paper and ink is terrible, it must have been produced on a home printer.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 165712609311,
+        "m_Localized": "June-bug, \r\n\r\nThey\u0027re telling me it\u0027s time to pack up. I\u0027ll be one of the last ones out. \r\nI never thought I\u0027d leave this place without you.\r\n\r\nI\u0027ll always remember our special date.\r\n\r\nSamuel",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938880,
+        "m_Localized": "Ferry Schedule",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938881,
+        "m_Localized": "Motel Shop Locker Code",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938883,
+        "m_Localized": "Welcome Booklet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938884,
+        "m_Localized": "Newspaper: Ghost Ship at the Harbor",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938885,
+        "m_Localized": "Shogun issue 1",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938893,
+        "m_Localized": "Diary Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938896,
+        "m_Localized": "Motel Room Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 34057890938897,
+        "m_Localized": "Motel Guest Ledger",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 90559895568191488,
+        "m_Localized": "Pharmacists Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 90562199860088832,
+        "m_Localized": "Herbs can be consumed on their own for a mild healing effect, but may be COMBINED with empty bottles or other Tonics to boost their effectiveness.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 102216819036459008,
+        "m_Localized": "Ship Manual Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 102219165724381184,
+        "m_Localized": "I\u0027ve fixed the panel (again). Next time check the translation guide for the buttons instead of pressing buttons randomly.\n\nRemember, IN THE RIGHT ORDER... Jesus Karl, it\u0027s not that hard.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 106224795223453696,
+        "m_Localized": "Ship Control Panel Fixed",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151776491883794432,
+        "m_Localized": "An unidentified man, believed to be artist Drew Laker, was found in the rubble of a collapsed balcony at the condemned Union Building. He had allegedly attacked Town Hall staff after destroying his own exhibition before its unveiling the previous day. The Silver Pines Art Committee said there had been no warning signs before hiring him for the public exhibition.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151785901746098176,
+        "m_Localized": "Alberta \u0027Albie\u0027 Wells\n1955-1993\nThough she lived a life in solitude, her love for her feline family will be remembered.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151786159171506176,
+        "m_Localized": "Sheriff Wulfe with SPSD comments: \u0022Our investigation has confirmed the condition was self-inflicted from ingestion of Terpentine.\u0022 \r\nSilver Pines Writer Association SPWA invites the community to a memorial service to honor the memory of their lost member.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151786385009610752,
+        "m_Localized": "The body of a tenant was discovered inside a broken elevator shack at the Union Building. Anonymous sources claim the latest victim having reported fears of being stalked to local authorities. The circumstances surrounding the death remains unclear, though no official investigation has been launched at the time of this publication.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151799450681806848,
+        "m_Localized": "Newspaper: Squatters Postpone Demolition",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151799691392913408,
+        "m_Localized": "The demolition of the old Union building on Loomis Street has been postponed indefinitely as inhabbitants refuse to vacate the premise. Tenant Drew Laker had this to say: \u0022The Union building is a historical site. Its dark past is a source of inspiration and one that poses no real danger.\u0022\nThe union building is currently providing housing for 5 residents. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151885541992632320,
+        "m_Localized": "Gallery Pamphlet from 1C",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151885668002107392,
+        "m_Localized": "Grief - A peak into the dark mind of Drew Laker soon opening in the Townhall Basement.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151888235562078208,
+        "m_Localized": "Birthday Card from 3A",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 151888754812719104,
+        "m_Localized": "Almost turned 40 now...\nHappy Birthday to me I guess... ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152168696297361408,
+        "m_Localized": "Water Damaged Diary from 3C",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152169953217024000,
+        "m_Localized": "The diary is badly water damaged, an entry is still legible.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152169975518138368,
+        "m_Localized": "\u0022I hear breathing in the bathroom. I can feel it\u0027s poison seeping through the mirror. It\u0027s in there all the time... Waiting. I\u0027m too afraid to go in there. I\u0027m leaving tonight. It\u0027s coming for me. IT WONT STOP FOLLOWING ME\u0022",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152509343025926144,
+        "m_Localized": "Typewriter Page from 2A",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 152510271049240576,
+        "m_Localized": "I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore. I don\u0027t feel like myself anymore.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 161999444009357312,
+        "m_Localized": "The new cremation trolleys are setup. They should make moving the coffins between floors a lot smoother.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 164495405973573632,
+        "m_Localized": "Newspaper: Parish Mourns Loss of Father",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 164495980337369088,
+        "m_Localized": "The members of Saint Adjutor Parish were left shocked this week following the sudden passing of Father Jacob Foster, whose struggle with cancer had been kept private up until now.\n\nFather Foster served the people of Silver Pines for more than forty-three years, not only as priest, but as counselor, deacon, and caretaker to residents in need.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167061476161163264,
+        "m_Localized": "Funeral Home Code",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 167061681619144704,
+        "m_Localized": "Lily\n\nRose\n\nBluebell",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 174695075995783168,
+        "m_Localized": "Funeral Caskets:\r\n\r\n1. \r\nName: Winona Horn \r\nTitle: Nurse\r\nBorn: 1955\r\n\r\n2.\r\nName: Jacob Foster\r\nTitle: Father\nBorn: 1925\r\n\r\n3.\r\nMattias Snygg\r\nTitle: Carpenter\r\n1979\r\n\r\n4.\r\nMarv Wilkins \r\nTitle: N/A\r\n1960",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 174807849103069184,
+        "m_Localized": "Priest\u0027s Journal excerpt",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 174808231816531968,
+        "m_Localized": "I seek punishment though I am innocent. My guilt undeserved refuses to wash away. I will absolve myself from sins I did not commit. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 174808975823147008,
+        "m_Localized": "In the sanctuary before St Adjutor I will be judged, I need not the medallions to enter it, for I know the creed by heart.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 175002849258573824,
+        "m_Localized": "\u201CHe helped everyone,\u201D one parish member stated. \u201CDidn\u2019t matter who. Though lately he seemed troubled, distracted. I guess it goes to show how little you know about the people around you.\u201D\n\nNo successor has yet been named for Saint Adjutor Parish Chapel, leaving uncertainty regarding the church\u2019s future.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 177974658153123840,
+        "m_Localized": "General Store Code",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 177974968347070464,
+        "m_Localized": "The code to the meat locker has been updated. I\u0027ll keep updating it daily until we find the thief. \nWe\u0027ve got a system now so it\u0027s a bit easier to manage.  Make sure to only share this with the butcher:\n\nThe code is 23 \u002B the current day of the month. \n\nRooster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 181895231080837120,
+        "m_Localized": "Hotel Reception Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 181895275288801280,
+        "m_Localized": "Welcome to Crimson Bear Motel\nTo open the gate, use the guest number provided when checking in.\nIf you\u0027ve lost your guest number, the front desk can assist you.\nIf the desk is unattended, kindly visit the house at the end of the road for assistance.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185524259118714880,
+        "m_Localized": "Someone close to you will soon look very different under the light of the moon.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185525658174951424,
+        "m_Localized": "....The fortune is blank.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 185526339397029888,
+        "m_Localized": "You are further along the road to your dreams than you might expect. Try seeing things from a different angle.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192777229971558400,
+        "m_Localized": "Workshop Boat Notes",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 192777907062247424,
+        "m_Localized": "Engine Repairs are nearing completion, just need to pickup the new Gear Box over at Dana\u0027s Autorepair. Gotta remember to Fuel it back up before returning it to the customer, it\u0027s quite the thirsty thing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203632609870024704,
+        "m_Localized": "Sport Store Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203632714928951296,
+        "m_Localized": "Note to self, change the code lock from the default. 0000 isn\u0027t a very safe combination.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203684819047878656,
+        "m_Localized": "Newspaper: Actors killed in Stunt Disaster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 203684916905185280,
+        "m_Localized": "The annual Church Hill swim has been cancelled due to the recent tragedy on Silver Lake. The Sheriffs department have yet to release any further details since the Gazetter reported on it yesterday. A lot of disappointed voices were raised at a gathering at Silver High when the seniors were informed that the cherished tradition where they swim across the Bay between the market would not happen this year.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215973332887867392,
+        "m_Localized": "Tower Code",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 215973467457916928,
+        "m_Localized": "The Tower code is 1234",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238046229608083456,
+        "m_Localized": "Shooting Gallery Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 238046234033074176,
+        "m_Localized": "\rTry out the Crimson Bear Hunting Experience and see if you can become a Crimson Hunter\n\nGet 2 points for a regular hit and 3 points for a headshot. Don\u0027t forget!, with this BB Rifle you will have to use the action after every shot to load the next round - Just like a real hunting rifle!\n\r\nScore at least 10 points and win a reward!\r\n\n\r\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239140023192850432,
+        "m_Localized": "Someone\u0027s been in my room. Things are missing, more every day.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239140029643689984,
+        "m_Localized": "The woman in room 3 knows the code to the supply locker in the store. I\u0027m sure of it. But she doesn\u0027t trust me... Is she in on it?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 239140032512593920,
+        "m_Localized": "I don\u0027t feel like myself anymore.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243127004172193792,
+        "m_Localized": "Guest Number: {0}\nGuest: Eddie Velvet\nRoom: Grizzly Suite\nDate: 9/21/94",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243164546451968000,
+        "m_Localized": "Motel Fusebox",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 243173152933089280,
+        "m_Localized": "There\u0027s nothing wrong with the wiring it\u0027s just the storm making the power act up. If another fuse blows there are replacements in the basement.\r\n\r\nThe bottom line is we\u2019re staying put, and we\u2019re staying open. Our guests always come first. I\u2019ve arranged for storm shutters if it comes to it, but WE WILL BE OPEN FOR BUSINESS.\r\n\r\nHolloway",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 246406596131622912,
+        "m_Localized": "Checkin Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 246406655787208704,
+        "m_Localized": "Gone to Rodney\u0027s general store, be back shortly!\nIf there\u0027s an emergency, it\u0027s just down the road.\n\n\n- Mr Holloway",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 250421363544494080,
+        "m_Localized": "As of September 2nd, the Silver Pines Ferry Service will be closed for the season.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 250424399511752704,
+        "m_Localized": "Motel Staff Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 250424636745781248,
+        "m_Localized": "The guest in the Grizzly Suite is two weeks overdue on his payment. If he doesn\u2019t pay today you should kick him out and call the Sheriff. This is not a charity we\u2019re running. \n-Holloway.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 253326448360493056,
+        "m_Localized": "Signup Sheet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 259041798586699776,
+        "m_Localized": "Evacuation Warning",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 259041848159178752,
+        "m_Localized": "Silver Pines authorities have issued an EVACUATION WARNING for your area. Please be vigilant, continue to follow the weather, and be ready to evacuate if directed.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 259042985268547584,
+        "m_Localized": "Newspaper: Storm of the Century?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 259043168819679232,
+        "m_Localized": "A potentially lethal combination of cold arctic air and high humidity threatens severe weather conditions across large swaths of the region.  \n\u201CThere are no plans for an evacuation at this time,\u201D Mayor Stephens tells us. \u201CThis town can take a few drops of rain.\u201D",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 259043365515759616,
+        "m_Localized": "Louis Reeves with Silver Pines Water and Electrical stated that the expanded sewer system and new sluice gates should be sufficient to manage heavy runoff from Mount Siah Kopa without flooding the rivers.\nTownhall maintains the system is fully operational and capable of handling excess water.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264183160583819264,
+        "m_Localized": "Note to Deputies",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264183201331482624,
+        "m_Localized": "We\u0027ve got enough on Velvet to pick him. Seems his contract at the rabbit hole is up so we gotta act fast. When you go to pick him up bring one of the dogs. Get him nervous. Let\u0027s see if he talks.\n\n\nSheriff Wulfe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264188655491158016,
+        "m_Localized": "Interrogation Room Booking Sheet",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 264188731185762304,
+        "m_Localized": "Interrogation Room Booking\n\r\n10AM - Deputy A.Lee \u2013 J.Tessler \u2013 Witness Statement, Missing Person.\r\n\r\n1:30PM - Sheriff J.Wulfe \u2013 M.Riley \u2013 Witness Statement, Missing Person.\r\n\r\n5PM - Sheriff J.Wulfe, Deputy D.Roberts \u2013 E.Velvet \u2013 Personal Involvement Inquiry.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286300145365106688,
+        "m_Localized": "Handwritten Note from Wulfe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286300249098633216,
+        "m_Localized": "I won\u0027t accept items just \u0027disappearing\u0027 from evidence lockup when we\u0027re only 3 people with access to it. I\u0027m leaving this note here in hopes that the items will find their way back. If they do I won\u0027t ask any questions and we won\u0027t need to file any reports on this.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286301760868401152,
+        "m_Localized": "Until then I\u0027m keeping the key secured in my safe, if you need something from lockup then you come talk to me and I\u0027ll personally oversee any work done in there.\n\n\nWulfe",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286786976649134080,
+        "m_Localized": "Sheriff\u0027s Office Book",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286787179829608448,
+        "m_Localized": "Henry\u0027s Full Statement of the Case\n\nI hesitated\u2026 then with a strong glow of courage, drank off the potion. The most racking pangs succeeded: a grinding in the \u003Csprite name=\u0022Rotate_Clockwise\u0022\u003E \u003Cu\u003Ebones\u003C/u\u003E, deadly nausea, a horror of the  \u003Cu\u003ESpirit.\u003C/u\u003E \u003Csprite name=\u0022Rotate_CounterClockwise\u0022\u003E I felt younger, lighter, happier in \u003Csprite name=\u0022Rotate_Clockwise\u0022\u003E \u003Cu\u003Ebody\u003C/u\u003E; within I was conscious of a heady recklessness. My \u003Cu\u003Eevil\u003C/u\u003E \u003Csprite name=\u0022Rotate_CounterClockwise\u0022\u003E side, tenfold more wicked, sold a slave to my original evil; and the first breath of this new life was pure freedom.\r\n\r\n\r\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286985737367273472,
+        "m_Localized": "Incident Report",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286985784351866880,
+        "m_Localized": "\u003Cb\u003EIncident Report \u2013 Silver Pines Sheriff\u2019s Department\u003C/b\u003E\r\n\u003Cb\u003EReporting Officer: \u003C/b\u003EDeputy A. Lee\r\n\r\nUnidentified John Doe recovered at the overflow outlet beneath Riverside Bridge, 0300 hours.\r\n\r\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 286987696426008576,
+        "m_Localized": "Deceased, showing signs consistent with drowning and blunt trauma, multiple shallow lacerations from glass suggest single-vehicle accident. No match found in current missing persons reports.\nRemains secured in department cold storage until storm clears. Requesting transfer to St. Vincent\u2019s Hospital for forensic examination and identification once conditions allow.\r\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287411856583766016,
+        "m_Localized": "Projector Labels",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287412006517551104,
+        "m_Localized": "\tBadge\n\t\t\t\t\tNumber\n\t\tReverse\n\t\t\tRelease\nPrisoner",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287763232962199552,
+        "m_Localized": "Crumbled up Journal Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287767431322091520,
+        "m_Localized": "I tried to say something today. Told Sheriff Wulfe I didn\u2019t feel right working the night desk alone with Roberts. He just laughed it off, like I was imagining things. Said Roberts was \u201Csolid\u201D and I should be glad to have an experienced deputy on call. \r\n\r\nI couldn\u0027t explain it. Nothing I could write in a report. He doesn\u2019t do anything wrong\u2026 But, sometimes I swear he\u2019s listening for things that aren\u2019t there. I keep catching him smiling at nothing or just... the way he\u0027s got that wet smell stuck to him.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 287767433054339072,
+        "m_Localized": "I wish they\u2019d put American Lee on the graveyard shift instead. At least with him I could relax, laugh, breathe. Around Roberts the whole place just gets... cold...\r\n\r\nMaybe it\u2019s just me. Maybe I\u2019m losing it. I didn\u0027t use to feel like this...",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 288803605315137536,
+        "m_Localized": "Newspaper: Search Hindered",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 288803635870642176,
+        "m_Localized": "The first day of volunteers searching for missing local Alice Baker turned up nothing. Weather worked against the volunteers, with persistent rain and strong winds throughout the day. \r\n\u201CRight now, no news is good news,\u201D said one of the participants. \u201CWe\u2019ll keep looking for as long as we have to.\u201D",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 289834276057333760,
+        "m_Localized": "Safe Manual Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 289834323511689216,
+        "m_Localized": "Anchor Keystone Safe: Operating the Combination Lock\r\n\r\n1. Move Dial Clockwise (\u003Csprite name=\u0022Rotate_Clockwise\u0022\u003E)to the first number of the code sequence.\r\n2. Then Counter Clockwise (\u003Csprite name=\u0022Rotate_CounterClockwise\u0022\u003E) and stop on the second number.\r\n3. Clockwise (\u003Csprite name=\u0022Rotate_Clockwise\u0022\u003E) again, stop on the third number.\r\n4. Then Counter Clockwise (\u003Csprite name=\u0022Rotate_CounterClockwise\u0022\u003E) and move to the fourth. Mechanism will yield.\r\n \r\nNote: If a number is overshot, restart the process.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 290971985455427584,
+        "m_Localized": "Emergency Frequency: 89.0Hz.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 290971992589938688,
+        "m_Localized": "Emergency Frequency",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292057803418320896,
+        "m_Localized": "Newspaper: Musician Linked to Missing Person",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292057842307907584,
+        "m_Localized": "Silver Pines Sheriff\u0027s Department remains secretive about suspicions of foul play regarding the woman who went missing in the area last week.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 292057844186955776,
+        "m_Localized": "\u201CUntil we\u2019ve established Miss Baker\u2019s whereabouts we can\u2019t say anything for sure\u201D, Sheriff Wulfe comments, but confirms that they have detained a person regarding the disappearance. Sources close to the sheriff\u0027s department have identified the suspect as a musician from out of town.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312316387284566016,
+        "m_Localized": "Waterlogged Poetry Book",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312321993303212032,
+        "m_Localized": "In the desert\nI saw a creature, naked, bestial,\nWho, squatting upon the ground,\nHeld his heart in his hands,\nAnd ate of it.\nI said, \u0027Is it good, friend?\u0027\n\u0027It is bitter - bitter,\u0027 he answered;\n\n\u0027But I like it\nBecause it is bitter,\nAnd because it is my heart.\u0027",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312697894033506304,
+        "m_Localized": "Eddie Velvet Dossier",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312698191975890944,
+        "m_Localized": "Eddie Velvet, age 25-35\nOccupation: Musician (?)\nCriminal record: unknown\nPlace of residence: unknown",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 312698193729110016,
+        "m_Localized": "Note: \n-Supposedly has a gun, no firearms registered under his name. Proceed with caution.\n-A drifter hitched a ride with Eddie out of Oregon, said Eddie was heading up North.\n-A Mr Holloway at the \u0022Crimson Bear Motel\u0022 in Silver Pines confirmed they have a guest under \u0022Velvet\u0022 staying there.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314539596247547904,
+        "m_Localized": "Diary Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314539762362957824,
+        "m_Localized": "Diary Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314539979791482880,
+        "m_Localized": "Diary Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314540015753445376,
+        "m_Localized": "Diary Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314541509051498496,
+        "m_Localized": "Eddie Velvet.\nI told you I\u0027m never leaving Silver Pines, but you\u0027re persistent... A part of me really wants you to be. You keep coming to see me after your shows. I keep letting you in. Why am I doing this...\n\n\nWe\u0027ll never leave together.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314541555696353280,
+        "m_Localized": "Eddie. Eddie. Eddie. Eddie. Why are you always on my mind? Eddie Velvet am I falling in love with you? You wanted me to come see you at the Bear again. I hate going there. Holloway makes me feel cheap, makes me feel like a whore. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314541651313901568,
+        "m_Localized": "I saw the Deacon on Church Hill again, Eddie. He takes me to such peaceful places. We speak a lot about the past. About what happened on the mountain. I pretend like it\u0027s helping. It makes him smile. I like seeing him smile. I never talk about you though. I never talk about the little man. Or how I change when I\u0027m around you. How everyone changes around you... ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 314541746952421376,
+        "m_Localized": "You want us to leave. The little man won\u0027t let me leave. I have a feeling you know... Tonight I\u0027ll take you to the special place. Maybe it will help you see. Maybe you don\u0027t care.\n\n\nSomething bad is about to happen... I can\u0027t stop it.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320342415466643456,
+        "m_Localized": "Townhall Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 320342440477278208,
+        "m_Localized": "The Sheriff will be stopping by sometimes tomorrow. Says she\u0027s busy with the evacuation and getting everyone out of town. I told her someone smashed up the entire gallery and that Laker is gone... She had the same idea as us. That nut probably did it himself... I think the best move is to just not make too big a deal out of any of this, nothing good will come of it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 322569909790720000,
+        "m_Localized": "ID Badge",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 332636685209251840,
+        "m_Localized": "Eddie Velvet Photo",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 333048237082624000,
+        "m_Localized": "Clipboard",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 358734340703731712,
+        "m_Localized": "Technical Manual",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359093290569646080,
+        "m_Localized": "Terminal Drive Script",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359096204050644992,
+        "m_Localized": "EXT. GAS STATION \u2013 NIGHT\r\n\r\nA car sits parked, engine running.\r\n\r\nThe DRIVER enters the gas station. Inside, the CLERK is busy unpacking boxes of cigarettes with a box cutter.\r\n\r\nDRIVER\r\nWhat are you doing here?\r\n\r\nCLERK\r\nSure with the smokes and matches, that\u2019ll ring up to 49 dollars, sir.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359099631015116800,
+        "m_Localized": "DRIVER\r\nYou\u2019re dying. It\u2019s already over.\r\n\r\nCLERK\r\nNo, no\u2014that wasn\u2019t me.\r\nNow listen, I had nothing to do with that.\r\nI\u2019m telling you, you got the wrong\u2014\r\n\r\nThe Driver grabs the back of the Clerk\u2019s head with one hand and the box cutter with the other. Blood sprays over the counter as he drives the blade into the Clerk\u2019s eye socket.\r\n\r\nDRIVER\r\nWhy keep struggling?",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359099848670134272,
+        "m_Localized": "The Driver exits, lighting a cigarette.\r\n\r\nCLOSE UP \u2014 A \u201CNO SMOKING\u201D SIGN.\r\n\r\nCLOSE UP \u2014 The cigarette is flicked out the window.\r\n\r\nThe gas station explodes.\r\n\r\nFADE TO:\r\n\r\nThe Driver speeds off into the night.\r\n\r\nEND SCENE",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359438767198650368,
+        "m_Localized": "Search Party Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 359440976518922240,
+        "m_Localized": "To anyone returning:\n\nWe just got word from townhall that the search is to be called off for now. Winds are picking up and the Gondola won\u0027t be safe to use if gets any worse. There\u0027s still a slim chance that the girl\u0027s alive somewhere up here so we\u0027re leaving behind some supplies in the back for when we can resume the search. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 360532234544955392,
+        "m_Localized": "Diary Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 360532263598899200,
+        "m_Localized": "I tried telling Eddie again. He gave her a gun for protection. He\u0027ll never understand. The gun feels so nice.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 363113913134432256,
+        "m_Localized": "Gondola Flyer",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 363114172262727680,
+        "m_Localized": "A Ride to the stars.\n\n\nJoin us for a summer of star gazing on the slopes of Mt.Siah Kopa.\nGondola services will operate during extended hours throughout the month of August.\nTake someone special along for the kind of moment that lasts forever.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364523175186870272,
+        "m_Localized": "Sheriff\u0027s Office Door Code",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364523179620249600,
+        "m_Localized": "Deputy Roberts gave me the code to the Sheriff\u0027s Department. The code is 17 15.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364596724844544000,
+        "m_Localized": "Friendly Paws, List",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 364597057557708800,
+        "m_Localized": "Howard, Feline, Age 3\nMax, Canine, Age 7\nUno, Feline, Age 8\nEbony, Avian, Age 14\nSushi, Reptile, Age 5\nBoy, Canine, Age 4\nAmber, Feline, Age 1\nBeryl, Feline, Age 9\nLudwig, Canine, Age 8\nRenn, Avian, Age 22\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 370724298838589440,
+        "m_Localized": "Pet Clinic Poster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 370724633296584704,
+        "m_Localized": "Time to let go?\r\nDon\u0027t let them suffer for your sake. \r\nFriendly Paws Veterinary Clinic",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 370742078229004288,
+        "m_Localized": "Torn Poster",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 370742590630346752,
+        "m_Localized": "MISSING A.... Baker\r\n.... ....... ..... last sighted heading up Mt. Siah Kopa.\r\n\r\n....... ....... contact the Silver Pines Sheriff\u2019s Department.\r\n\r\nCalling Experienced woodsmen ........... join the search ....... Mt. Siah Kopa.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 374690881541849088,
+        "m_Localized": "Newspaper: Framed Article",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 374690965960605696,
+        "m_Localized": "Newlyweds Take Over Town\u2019s Oldest Diner\r\n\r\nSamuel and June Wyse are the new owners of the historic Miner Diner, acquiring the property on the day of their wedding.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 374690968015814656,
+        "m_Localized": "When asked if the timing could have waited, Samuel replied, \u201CThis is the place where we first met, what better way to celebrate our love?\u201D June added, \u201CThis place is home to us.\u201D",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 374690969475432448,
+        "m_Localized": "To honor the occasion, the Silver Pines Historical Society has issued a commemorative plaque recognizing the Miner Diner as a historic site, a fitting wedding day gift for the couple.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 380895979213242368,
+        "m_Localized": "Script Page",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 380896184465702912,
+        "m_Localized": "Yesterday, upon the stair,\nI met a man who wasn\u0027t there!\nHe wasn\u0027t there again today,\nI wish, I wish he\u0027d go away!",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 380902779350237184,
+        "m_Localized": "When I came home last night at three,\nThe man was waiting there for me\nBut when I looked around the hall,\nI couldn\u0027t see him there at all!\nGo away, go away, don\u0027t you come back any more!\nGo away, go away, and please don\u0027t slam the door... \n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 380902813152133120,
+        "m_Localized": "Last night I saw upon the stair,\nA little man who wasn\u0027t there\nHe wasn\u0027t there again today\nOh, how I wish he\u0027d go away.... ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383382340927307776,
+        "m_Localized": "DON\u2019T MISS:\nOur World Famous Porcelain Bear Collection and Gift Shop.\n\nNeed to call another guest room?\nDial 5888 \u002B Room Number\n\nEnjoy your stay.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383785258121773056,
+        "m_Localized": "Lore_Church_Alice_Diary_5",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383785735400013824,
+        "m_Localized": "I tried imagining us somewhere else. Somewhere where the palm trees grow. Somewhere away from him.\n\n\nI tried imagining us growing old. A life spent together. A life in peace.\n\n\n...I couldn\u0027t do it.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383787086775402496,
+        "m_Localized": "Eddie. Eddie. Eddie. Eddie. Why are you always on my mind? Eddie Velvet I hate you. I hate the way you reek of alcohol and cigarettes when you come to see me after your shows. I hate the way you touch me. Touching someone who belongs to someone else. THE TOUCH OF A USELESS PILE OF SHIT",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383788823556997120,
+        "m_Localized": "Lore_Sewer_Alice_Diary_7",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383789001118662656,
+        "m_Localized": "I\u0027m packing my bag. The little man counts backwards. Banging on things inside the wall. Eddie has come to take me away. He can\u0027t stop it. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383793028292231168,
+        "m_Localized": "Ferry Note",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383793138828918784,
+        "m_Localized": "Service is complete and ferry should be good until the end of the season, but if acts up again you got the spare parts in the storage. Should be easy enough to replace it yourself but if there\u0027s trouble, Big Winberg over at the Boat shop should be able to help out.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383818783348834304,
+        "m_Localized": "Safety Notice",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383818825291874304,
+        "m_Localized": "To all maintenance personnel:\n\n\nDuring a previous event, failing to comply to safety rules lead to pressure buildup exceeding safe operating limits which caused a line to rupture to blow the door straight off its hinges. Luckily no one was hurt but maintenance had to spend 3 weeks patching it back up.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 383818826696966144,
+        "m_Localized": "Any personnel working in or passing through this section are advised monitor the nearby pressure gauges and report irregular readings. For now, Lines A, B, and C remain shut off to reduce unexpected activity.\n\n\nDo not tamper with valves, bypass safety locks, or attempt any unauthorized maintenance, and in the event of dangerous pressure levels, stand clear from the door.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384877044969848832,
+        "m_Localized": "Funeral Home Dossier",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384877066104946688,
+        "m_Localized": "Internal Record\nExaminer: L. Ashbrook\nDeceased: Jacob Foster, 68\n\nBody is completely consumed by cancer. Frankly I don\u0027t understand how he was still walking around in the last few days before his passing. Extensive spread, severe wasting, several organs compromised.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384877067501649920,
+        "m_Localized": "Truthfully, Father Foster should have passed much sooner. Whatever kept him alive, medicine had nothing to do with it. I saw strange things during my time in the jungle, but nothing like this. All I can say is that the old priest stayed alive through sheer will. Bizarre.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384884612601561088,
+        "m_Localized": "Image: Father Foster (Left), 1965",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384888471247994880,
+        "m_Localized": "Journal of Father Jacob",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384888588164218880,
+        "m_Localized": "Took Alice to the beach again.\n\nIn spite of everything, water calms her down. For a long time I had figured it should trouble her, but near it she enters a quiet peace. We talk for hours, but I\u0027m not reaching her. Something has changed. She\u0027s falling somewhere I cannot follow.\n\n\n\n\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 384888590018101248,
+        "m_Localized": "Ever since meeting the musician, her wounds are opening again. There is a distance in her now, a pull towards whatever stirs those old memories, and she takes it into her willingly.\n\nI pray to the lord for the strength to keep helping her, yet my own will abandons me. I fear I was never strong enough to begin with. I fear I\u0027ve failed her.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 385268641175781376,
+        "m_Localized": "Harbor workers were left scratching their heads this week when a Chinese cargo ship that was found drifting downriver without a crew, was towed into port.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 385268643411345408,
+        "m_Localized": "The aging vessel hasn\u0027t been registered in the area for nearly 30 years, leaving locals wondering how it got here and why it was abandoned. No owner has come forward, and officials admit they are uncertain what can legally be done.\n\n\nFor now the ghost ship sits silent at the docks, drawing uneasy looks and late night stories from curious residents.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 385269306937655296,
+        "m_Localized": "Silver Pines woke to heartbreaking news yesterday after two local actors were killed during a stunt accident at the Thelend Broadcasting lot. \r\nThe tragedy has sparked a debate about the dangerous stunts featured in the recent Terminal Drive production. ",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 385269309152247808,
+        "m_Localized": "One staff member had previously spoken out, saying that the risky scenes the script writers are calling for are increasingly reckless and unneccesarily endangering the cast.\n",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      },
+      {
+        "m_Id": 385278551103979520,
+        "m_Localized": "As neighbors argue over who should be held responsible, this reporters thoughts are with young child left behind.\nThe investigation remains ongoing.",
+        "m_Metadata": {
+          "m_Items": {
+            "Array": []
+          }
+        }
+      }
+    ]
+  },
+  "references": null
+}
