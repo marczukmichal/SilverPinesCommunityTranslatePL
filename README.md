@@ -19,7 +19,7 @@
 ### Steps
 1. **Install BepInEx**: Extract it into the game folder (`Silver Pines Demo/`)
 2. **Launch the game once** so BepInEx can create the folder structure
-3. **[Download the mod](https://github.com/marczukmichal/subtitles-mod-game/releases/download/Beta/SilverPinesTranslate.zip)** (0.4 MB)
+3. **[Download the mod](https://github.com/marczukmichal/SilverPinesCommunityTranslatePL/releases/Beta/)** (0.4 MB)
 4. **Extract to**: `Silver Pines Demo/BepInEx/plugins/SilverPinesTranslate/`
 5. **Restart the game** — Polish is now active
 
@@ -49,7 +49,7 @@
 ### Kroki
 1. **Zainstaluj BepInEx**: Rozpakuj do folderu gry (`Silver Pines Demo/`)
 2. **Uruchom grę raz**, aby BepInEx stworzył strukturę folderów
-3. **[Pobierz mod](https://github.com/marczukmichal/subtitles-mod-game/releases/download/Beta/SilverPinesTranslate.zip)** (0.4 MB)
+3. **[Pobierz mod](https://github.com/marczukmichal/SilverPinesCommunityTranslatePL/releases/Beta/)** (0.4 MB)
 4. **Rozpakuj do**: `Silver Pines Demo/BepInEx/plugins/SilverPinesTranslate/`
 5. **Zrestartuj grę** — Polski jest teraz aktywny
 
